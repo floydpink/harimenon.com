@@ -12,6 +12,6 @@ This [really nice post](http://approache.com/blog/migrating-from-blogger-to-octo
 
 I did manualy add all the old permalinks with static meta-tag and JavaScript based redirection though. So if you watch the headers in fiddler or something while clicking this old blogger URL - [http://technology.harimenon.com/2012/12/lzwCompress.js.html](http://technology.harimenon.com/2012/12/lzwCompress.js.html), you would see a page come down with 200, that does either of a `<meta http-equiv="refresh" content="0;url=..."/>` refresh or the `location.replace('...')` from the JavaScript within, to the new URL on Octopress - [http://technology.harimenon.com/blog/2012/12/06/lzwCompress.js/](http://tech.harimenon.com/blog/2012/12/06/lzwCompress.js/). 
 
-But all the old label/category/archive links etc. (like this one - [http://technology.harimenon.com/search/label/ClickOnce Deployment](http://technology.harimenon.com/search/label/ClickOnce Deployment) would  remain broken and I have decided that it is how it's gonna be.
+But all the old label/category/archive links etc. (like this one - [http://technology.harimenon.com/search/label/ClickOnce Deployment](http://technology.harimenon.com/search/label/ClickOnce Deployment) would  remain broken but I have decided that's how it's going to be.
 
-Hopefully, the new blogging platform would be the impetus that I've always been waiting for to start churning up a lot of posts!
+Hopefully, the new blogging platform would be _the_ impetus that I've been waiting for to start churning up a lot of posts!
