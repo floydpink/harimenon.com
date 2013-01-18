@@ -1,0 +1,8 @@
+{% if site.stackoverflow_user_name %}
+<section>
+  <h1>Stack Overflow</h1>
+  <a href="http://stackoverflow.com/users/{{site.stackoverflow_user_id}}/{{site.stackoverflow_user_name}}" style="white-space: normal;">
+  <img src="http://stackoverflow.com/users/flair/{{site.stackoverflow_user_id}}.png" width="208" height="58" alt="Stack Overflow profile: {{ site.stackoverflow_name }}" title="Stack Overflow profile: {{ site.stackoverflow_name }}">
+  </a>
+</section>
+{% endif %}

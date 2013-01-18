@@ -2,6 +2,7 @@
 layout: post
 title: "AOP for logging in .NET"
 date: 2012-12-16T11:23:00-08:00
+comments: true
 categories:
 - cross-cutting concerns
 - .NET

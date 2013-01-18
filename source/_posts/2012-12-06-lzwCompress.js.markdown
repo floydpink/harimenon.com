@@ -2,6 +2,7 @@
 layout: post
 title: "Compressing JSON - lzwCompress.js"
 date: 2012-12-06T19:36:00-08:00
+comments: true
 categories:
 - indexedDb
 - lzwCompress.js

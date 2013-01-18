@@ -2,6 +2,7 @@
 layout: post
 title: "Useful git commands"
 date: 2012-12-06T06:58:00-08:00
+comments: true
 ---
 
 * Compare branches after squash merge or rebase
