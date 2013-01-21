@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://technology.harimenon.com
-title: Technology & Me
-subtitle: Ramblings/Musings/Stumblings/Findings etc. from the technology walk of my life.
+url: http://www.harimenon.com
+title: Hari Menon
+subtitle: Namaste. Welcome to my personal space on the world wide web!
 author: Hari Menon
 simple_search: http://google.com/search
-description: Hari Menon's technology blog
+description: Hari Menon's personal website
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
