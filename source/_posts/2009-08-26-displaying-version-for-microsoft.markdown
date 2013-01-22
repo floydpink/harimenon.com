@@ -2,6 +2,7 @@
 layout: post
 title: "Displaying the version for a Microsoft InfoPath 2007 form template"
 date: 2009-08-26T12:25:00-07:00
+comments: true
 categories:
  - technical
  - version
