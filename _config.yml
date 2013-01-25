@@ -108,3 +108,14 @@ facebook_like: false
 stackoverflow_name: Floyd Pink
 stackoverflow_user_name: floyd-pink
 stackoverflow_user_id: 218882
+
+#prose.io settings
+prose:
+  rooturl: "source"
+  metadata:
+    "source/_posts": |
+      layout: post
+      title: "Untitled"
+      comments: true
+      categories: [technical]
+      published: true
