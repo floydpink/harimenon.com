@@ -15,12 +15,12 @@ before_script:
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
   # Set deployment target to github pages
   - rake setup_github_pages[$REPO]
+  # To reset the 'url' to the custom domain in '_config.yml'
+  - git checkout -- _config.yml
 script:
   # Generate site
   - rake generate
 after_script:
-  # Workaround for travis not to try run rake on generated site
-  - ! 'echo ''script: "ls *.html"'' > public/.travis.yml'
   # Deploy!
   - rake deploy
 env:
