@@ -11,6 +11,8 @@ categories:
 - JSON Compression
 - compressing JSON
 - webSql database
+published: true
+
 ---
 
 <div class='post'>

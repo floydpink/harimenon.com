@@ -12,6 +12,8 @@ categories:
  - തോന്നിയവാസം
  - travel
  - ഭ്രാന്തുകൾ
+published: true
+
 ---
 
 <div class='post'>

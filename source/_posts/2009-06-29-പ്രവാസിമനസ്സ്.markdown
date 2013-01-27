@@ -13,6 +13,8 @@ categories:
  - yearn
  - കവിത എഴുതാനുള്ള ശ്രമം
  - longing
+published: true
+
 ---
 
 <div class='post'>

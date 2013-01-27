@@ -17,6 +17,8 @@ categories:
  - git
  - automation
  - MSBuild
+published: true
+
 ---
 
 I have posted an entry on the flickrdownloadr.com blog, about how the single click deployment came about.

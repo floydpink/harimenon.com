@@ -5,6 +5,8 @@ date: 2012-12-06T06:58:00-08:00
 comments: true
 categories:
  - technical
+published: true
+
 ---
 
 * Compare branches after squash merge or rebase

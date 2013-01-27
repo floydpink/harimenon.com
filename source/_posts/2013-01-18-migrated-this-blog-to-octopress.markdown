@@ -4,6 +4,8 @@ title: "Migrated this blog to Octopress"
 date: 2013-01-18 01:55
 comments: true
 categories: [technical, blog, blog migration, octopress, blogger, blogger to octopress, sinatra] 
+published: true
+
 ---
 
 {% blockquote %}
