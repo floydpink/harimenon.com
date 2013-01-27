@@ -3,7 +3,7 @@ layout: post
 title: "Auto-deploying to my Octopress blog with Travis-CI"
 comments: true
 categories: [technical, blog, Octopress, Travis-CI]
-published: true
+published: false
 
 ---
 
