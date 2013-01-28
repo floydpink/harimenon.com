@@ -27,7 +27,7 @@ env:
   global:
     # Repo read-write address
     - REPO="git@github.com:floydpink/harimenon.com"
-    # SSH key. Encoded. See https://gist.github.com/4242707
+    # SSH key. Encoded. See https://gist.github.com/4631240
     - secure: "gzAGrp9JzRSxhfZMCbqsdA8vFOJgy4ASs8PnJcV7+3djyN3sYmcoqGC6YCRP\nnDKIGD+aqPmRpfXdl0flUIdzSTJXmKa+vEl4NRHn21JLPlKWTyNuA16Tjrh0\nxxDD/lFy0FbqUmpsdzo574SmOPu8xHy6Y2o10UcLw02yA8yDFYY="
     - secure: "fOng6h3hcQTYMcDKPFHpRLLDymc6jYk4Q6U26jha+uTV8x9K7QSDadEobIwI\namtNO78OYpDzr1Fmgufc2+Mdco/lNsPcWNo2RmyL6pA6tiut8rNJ4ChXYV/D\nZ/+/LQTZEGbdeZ22AuSaDx9o/HEEQkxU7aYNKwLYVTnDmfouJzk="
     - secure: "Vk4Vgff+Z9U+7CEB+ooMqZyWfhdz/X5C9gdB2dpiJWrpCRvXHM06CsfGvZTp\n1tuxYhRL2mV+BIGggSKbzdHmhFr0OcpkN/HI1Hn1OVhnqOswKF95K4g4bHln\n9ZZprgwQNdBJlYN6oo5/oa+70ApdRrrYBzBSA/gNv/RkK64SueI="
