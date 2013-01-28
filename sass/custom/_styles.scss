@@ -1,16 +1,5 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
-@font-face {
-		font-family: 'AnjaliOldLipi';
-		src: url('/assets/fonts/anjalioldlipi0730.eot');
-		src: url('/assets/fonts/anjalioldlipi0730.eot?#iefix') format('embedded-opentype'),
-				 url('/assets/fonts/anjalioldlipi0730.woff') format('woff'),
-				 url('/assets/fonts/anjalioldlipi0730.ttf') format('truetype'),
-				 url('/assets/fonts/anjalioldlipi0730.svg#anjalioldlipi0730') format('svg');
-		font-weight: normal;
-		font-style: normal;
-}
-
 html {
   background: image-url('bo_play_pattern.png') top left;
 }
