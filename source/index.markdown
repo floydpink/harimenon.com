@@ -1,10 +1,10 @@
 ---
 layout: page
 date: 2013-01-24 23:54
-sidebar: collapse
 comments: false
 sharing: false
 footer: false
+published: true
 ---
 
 ### Welcome!
