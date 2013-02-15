@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Start WEBrick Web Server Here"
+date: 2013-02-14 21:40
 comments: true
 categories: [technical, webrick, webserver, bash]
 published: true
@@ -14,7 +15,7 @@ This necessitated a quick and easy way to start serving the current directory th
 This led me to google `"start a webrick server at current directory windows"` and the first link was to [this question](http://stackoverflow.com/questions/3108395/serve-current-directory-from-command-line) on Stack Overflow.
 
 Thanks to [the highly voted (albeit not the accepted) answer](http://stackoverflow.com/a/7105609/218882) there, I added this snippet to my `.bashrc`:
-``` shell
+``` bash
 function serve {
   port="${1:-3000}"
   ruby -r webrick -e "s = WEBrick::HTTPServer.new(:Port => $port, :DocumentRoot => Dir.pwd); trap('INT') { s.shutdown }; s.start"
