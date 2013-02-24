@@ -11,7 +11,7 @@ The first time I heard about [Twitter Cards](https://dev.twitter.com/docs/cards)
 
 Anyways, since the time I read that blog, I have been thinking of trying to implement it here on this blog as well as on the other website I've been actively maintaining lately - [flickrdownloadr.com](http://flickrdownloadr.com). Finally got around to doing it yesterday on the static pages at flickrdownloadr site (even though I am still waiting for Twitter to approve my site).
 
-Today, I took it one step further by implementing it here and on [the blog there](http://flickrdownloadr.com/blogs/), which are both built with the awesome [Octopress](http://octopress.org) platform. Turned out to be pretty straight-forward - just add the below snippet into the `source/_includes/custom/head.html` and you should be all set.
+<!-- more -->Today, I took it one step further by implementing it here and on [the blog there](http://flickrdownloadr.com/blogs/), which are both built with the awesome [Octopress](http://octopress.org) platform. Turned out to be pretty straight-forward - just add the below snippet into the `source/_includes/custom/head.html` and you should be all set.
 
 ``` html twitter_cards
 {% raw %}{% if site.twitter_user %}

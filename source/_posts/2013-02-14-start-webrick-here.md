@@ -14,7 +14,7 @@ This necessitated a quick and easy way to start serving the current directory th
 
 This led me to google `"start a webrick server at current directory windows"` and the first link was to [this question](http://stackoverflow.com/questions/3108395/serve-current-directory-from-command-line) on Stack Overflow.
 
-Thanks to [the highly voted (albeit not the accepted) answer](http://stackoverflow.com/a/7105609/218882) there, I added this snippet to my `.bashrc`:
+<!-- more -->Thanks to [the highly voted (albeit not the accepted) answer](http://stackoverflow.com/a/7105609/218882) there, I added this snippet to my `.bashrc`:
 ``` bash
 function serve {
   port="${1:-3000}"
