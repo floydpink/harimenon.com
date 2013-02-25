@@ -11,6 +11,7 @@ categories:
 - JSON Compression
 - compressing JSON
 - webSql database
+- JavaScript
 published: true
 
 ---

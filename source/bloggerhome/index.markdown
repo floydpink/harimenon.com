@@ -2,9 +2,10 @@
 layout: page
 title: "About Me"
 date: 2009-07-01 09:18
-comments: false
+comments: true
 sharing: false
 footer: true
+published: true
 ---
 Thank you for the visit and welcome to the small space that I have on the web. Please make yourself comfortable and have a look around and do leave some comments/feedback on what you see if you could spare the time.
 
