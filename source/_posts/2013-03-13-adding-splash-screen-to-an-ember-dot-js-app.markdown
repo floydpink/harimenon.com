@@ -4,8 +4,9 @@ title: "Adding splash screen to an Ember.js app"
 date: 2013-03-13 19:48
 comments: true
 description: "Add a custom splash screen for an Ember.js application, that could be especially usefult if it's deployed as mobile apps."
-keywords: "splash, screen, mobile splash screen, ember.js, ember.js app splash, ember.js splash, ember splash"
-categories: [technical]
+keywords: "splash, screen, mobile splash screen, ember.js, ember.js app splash, ember.js splash, ember splash",
+published: true
+categories: [technical, ember.js, splash screen, mobile]
 ---
 
 Have been playing around with [Ember.js](http://emberjs.com) quite a bit lately and it's been real good fun. I have been trying to put together a [PhoneGap/Cordova](http://cordova.apache.org/) based Android app, for the awesome, open source, continuous integration application - [Travis-CI](http://travis-ci.org). It is really in its pre-natal stages, but you could see whatever I've been doing [here](https://github.com/floydpink/Travis-CI).
