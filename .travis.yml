@@ -5,6 +5,9 @@ language: ruby
 rvm:
   - 1.9.3
 before_script: 
+  # Set the git config stuff, so Git stops yelling at us
+  - git config --global user.name "Floyd Pink (via Travis-CI)"
+  - git config --global user.email "imbleedingme@googlemail.com"
   # Set read-write git origin
   - git remote set-url origin $REPO.git
   # Unpack ssh key for git
