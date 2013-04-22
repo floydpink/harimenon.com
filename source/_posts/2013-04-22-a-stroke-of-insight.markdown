@@ -5,7 +5,7 @@ date: 2013-04-22 19:15
 comments: true
 description: "An amazing video found on TED."
 keywords: "ted, brain, nirvana, stroke, hemorrhage, spirituality"
-published: false
+published: true
 categories: [english-blog, non-tech, blog, ted, brain, nirvana, stroke, hemorrhage, spirituality]
 ---
 
@@ -14,4 +14,3 @@ categories: [english-blog, non-tech, blog, ted, brain, nirvana, stroke, hemorrha
 Thank you, Kiran...
 
 <iframe src="http://embed.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
