@@ -6,7 +6,7 @@ comments: true
 description: "An amazing video found on TED."
 keywords: "ted, brain, nirvana, stroke, hemorrhage, spirituality"
 published: true
-categories: [english-blog, non-tech, blog, ted, brain, nirvana, stroke, hemorrhage, spirituality]
+categories: [English Blog, non-tech, blog, ted, brain, nirvana, stroke, hemorrhage, spirituality]
 ---
 
 ### You must watch [this amazing TED video](http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)
