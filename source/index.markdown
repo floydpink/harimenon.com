@@ -1,10 +1,11 @@
 ---
+published: true
 layout: page
-date: 2013-02-24 01:00
+date: "2013-02-24 01:00"
 comments: true
 sharing: false
 footer: false
-published: true
+
 ---
 
 ### Welcome!
@@ -15,14 +16,14 @@ Have been doing a little bit of Android/PhoneGap/jQuery-Mobile kinda stuff off l
 
 I love StackOverflow, GitHub, Hacker News and Twitter (not necessarily in that order).
 
-I wish I would one day be a CTO-ish someone of something-big, founded by myself!
+I hope to be a CTO-ish someone of something-big, founded by myself, one day!
 
 ### Projects
 
 The few that are worthy of mention:
 
  - [flickr downloadr](http://flickrdownloadr.com) - A flickr download manager for Windows, conceived from a personal need.
- - [Travis CI](http://floydpink.github.com/Travis-CI/) - Prenatal stages of what would be an Android app for the awesome Travis CI.
+ - [Travis CI](http://floydpink.github.com/Travis-CI/) - An Android app for the awesome continuous integration service - Travis CI.
  - [lzwCompress.js](http://floydpink.github.com/lzwCompress.js/) - A compression utility spun off from one of the projects I worked for.
 
 Check out my profile at GitHub for all the stuff that I fork and push to.
@@ -37,4 +38,5 @@ The content of the old home page has been archived [here](/bloggerhome), and it'
 
 Have a beautiful day!
 
+<small>Last Updated: 05/19/2013-20:46 EDT</small>
 ---------------------
