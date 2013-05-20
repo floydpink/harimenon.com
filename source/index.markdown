@@ -39,4 +39,5 @@ The content of the old home page has been archived [here](/bloggerhome), and it'
 Have a beautiful day!
 
 <small>Last Updated: 05/19/2013-20:46 EDT</small>
+
 ---------------------
