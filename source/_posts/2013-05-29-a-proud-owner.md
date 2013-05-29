@@ -4,7 +4,11 @@ published:
 layout: post
 title: A proud Macbook Pro owner
 comments: "true"
-categories: "\"non tech\", \"english blog\", personal, macbook-pro"
+categories:
+ - non-tech
+ - English Blog
+ - personal
+ - Macbook Pro
 
 ---
 
