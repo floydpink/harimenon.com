@@ -23,7 +23,7 @@ I hope to be a CTO-ish someone of something-big, founded by myself, one day!
 The few that are worthy of mention:
 
  - [flickr downloadr](http://flickrdownloadr.com) - A flickr download manager for Windows, conceived from a personal need.
- - [Travis CI](http://floydpink.github.com/Travis-CI/) - An Android app for the awesome continuous integration service - Travis CI.
+ - [Travis CI Mobile](http://floydpink.github.com/Travis-CI/) - Android & iOS applications (done in PhoneGap) for Travis CI.
  - [lzwCompress.js](http://floydpink.github.com/lzwCompress.js/) - A compression utility spun off from one of the projects I worked for.
 
 Check out my profile at GitHub for all the stuff that I fork and push to.
