@@ -7,3 +7,7 @@ The site gets built on every commit to this repo, thanks to the wonderful [Travi
 [![Build Status](https://travis-ci.org/floydpink/harimenon.com.png?branch=master)](https://travis-ci.org/floydpink/harimenon.com)
 
 [![githalytics.com alpha](https://cruel-carlota.gopagoda.com/6b1d19f7cd87a6c9f2af623ded95a8de "githalytics.com")](http://githalytics.com/floydpink/harimenon.com)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/floydpink/harimenon.com/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
