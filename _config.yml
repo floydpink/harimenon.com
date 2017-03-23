@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Hari Menon
+subtitle: Namaste. Welcome to my personal space on the world wide web!
 description:
-author: John Doe
-language:
-timezone:
+author: Hari Menon
+language: en
+timezone: America/New_York
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://new.harimenon.com/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -32,7 +32,7 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: false
 relative_link: false
