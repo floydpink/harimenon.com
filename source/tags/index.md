@@ -1,6 +1,3 @@
----
-title: Tags
-date: 2017-03-23 18:00:45
+title: "Tags"
 layout: "tags"
-comments: false
 ---

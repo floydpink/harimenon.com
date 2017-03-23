@@ -17,8 +17,8 @@ module.exports = function(grunt){
     copy: {
       fontawesome: {
         expand: true,
-        cwd: 'tmp/fontawesome/fonts/',
-        src: ['**'],
+        cwd: 'tmp/fontawesome/',
+        src: ['css/**','fonts/**'],
         dest: 'source/css/fonts/'
       },
       fancybox: {
