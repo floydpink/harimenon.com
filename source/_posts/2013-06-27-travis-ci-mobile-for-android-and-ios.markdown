@@ -3,7 +3,7 @@ layout: post
 title: "Travis-CI Mobile for Android and iOS"
 date: 2013-06-27 11:03
 comments: true
-categories: [technical, iOS, Travis-CI, PhoneGap, mobile app]
+tags: [technical, iOS, Travis-CI, PhoneGap, mobile app]
 published: false
 ---
 

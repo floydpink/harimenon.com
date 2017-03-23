@@ -4,8 +4,9 @@ title: "ഇടവേള തുടരുന്നു..."
 date: 2009-11-17T21:19:00-05:00
 comments: true
 categories:
- - Malayalam Blog
  - non-tech
+tags:
+ - Malayalam Blog
  - personal
  - അർദ്ധവിരാമം
  - മടി

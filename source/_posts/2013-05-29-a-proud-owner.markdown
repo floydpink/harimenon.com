@@ -6,6 +6,7 @@ title: A proud Macbook Pro owner
 comments: "true"
 categories:
  - non-tech
+tags:
  - English Blog
  - personal
  - Macbook Pro

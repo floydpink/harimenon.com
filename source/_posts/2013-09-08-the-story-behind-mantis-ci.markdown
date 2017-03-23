@@ -2,7 +2,9 @@
 layout: post
 date: 2013-09-09 00:40
 comments: true
-categories: [technical, Mantis CI, iOS, Android, Travis CI, PhoneGap, mobile app, story]
+categories:
+ - technical
+tags: [Mantis CI, iOS, Android, Travis CI, PhoneGap, mobile app, story]
 published: true
 title: The Story Behind Mantis CI
 created_at: Mon 09 Sep 2013 00:49:00 EDT

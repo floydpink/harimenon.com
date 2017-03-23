@@ -4,10 +4,11 @@ title: "Single-click Deployment of WPF Application to GitHub Pages"
 date: 2013-01-15T08:53:00-08:00
 comments: true
 categories:
+ - technical
+tags:
  - flickr downloadr
  - WPF Application
  - .NET
- - technical
  - bash
  - github
  - ClickOnce Deployment

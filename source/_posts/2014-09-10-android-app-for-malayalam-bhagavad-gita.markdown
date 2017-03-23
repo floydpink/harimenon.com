@@ -3,7 +3,8 @@ layout: post
 date: "2014-09-10 14:12"
 comments: true
 categories:
-  - technical
+ - technical
+tags:
   - Android
   - mobile app
   - malayalam

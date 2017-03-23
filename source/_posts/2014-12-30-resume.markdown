@@ -5,8 +5,8 @@ date: "2014-12-30 22:26"
 comments: false
 categories:
   - technical
+tags:
   - resume
-  - non-tech
   - personal
   - imported from Stack Overflow Careers
 created_at: "Tue 30 Dec 2014 22:26:00 EST"

@@ -3,7 +3,9 @@ layout: post
 title: "Using keyboard as mouse"
 date: 2013-01-22 12:06
 comments: true
-categories: [technical, keyboard shortcuts, windows, mouse, obscure]
+categories:
+ - technical
+tags: [keyboard shortcuts, windows, mouse, obscure]
 published: true
 
 ---

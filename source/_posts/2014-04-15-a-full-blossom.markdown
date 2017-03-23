@@ -5,7 +5,9 @@ date: 2014-04-15 00:05
 comments: true
 created_at: Thu 15 Apr 2014 12:05:00 EST
 published: true
-categories: [English Blog, non-tech, photography, Cherry Blossom, Washington DC]
+categories:
+  - non-tech
+tags: [English Blog, photography, Cherry Blossom, Washington DC]
 ---
 
 #### National Cherry Blossom Festival, Spring 2014, Washington, DC

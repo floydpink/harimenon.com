@@ -4,7 +4,9 @@ title: "Twitter Cards for Octopress blogs"
 date: 2013-02-23 19:21
 comments: true
 published: true
-categories: [technical, twitter, blog, octopress, Twitter Cards]
+categories:
+ - technical
+tags: [twitter, blog, octopress, Twitter Cards]
 ---
 
 The first time I heard about [Twitter Cards](https://dev.twitter.com/docs/cards) is from [the GitHub blog entry](https://github.com/blog/1388-github-now-supports-twitter-cards) announcing they have implemented it for all the GitHub respositories. And if you haven't heard about them, go to either of those posts and you'd get a quick overview.

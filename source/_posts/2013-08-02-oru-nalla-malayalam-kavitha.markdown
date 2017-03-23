@@ -3,9 +3,10 @@ layout: post
 title: "ഒരു നല്ല മലയാളം കവിത "
 date: "2013-08-02 20:14"
 comments: true
-categories: 
+categories:
+  - non-tech
+tags:
   - Malayalam Blog
-  - "non-tech"
   - personal
   - asianet
   - കവിത

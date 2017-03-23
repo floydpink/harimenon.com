@@ -4,7 +4,8 @@ title: എന്നും എപ്പോഴും - ധിത്തികി �
 date: "2017-03-04 20:30"
 comments: true
 categories:
-  - non-tech
+ - non-tech
+tags:
   - English Blog
   - Malayalam Blog
   - personal

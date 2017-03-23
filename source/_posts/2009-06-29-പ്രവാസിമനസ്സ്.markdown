@@ -4,8 +4,9 @@ title: "പ്രവാസിമനസ്സ് !"
 date: 2009-06-29T22:16:00-04:00
 comments: true
 categories:
- - Malayalam Blog
  - non-tech
+tags:
+ - Malayalam Blog
  - personal
  - attempt at a poem
  - malayalam

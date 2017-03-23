@@ -5,6 +5,7 @@ date: 2013-01-15T21:56:00-08:00
 comments: true
 categories:
  - technical
+tags:
 published: true
 
 ---

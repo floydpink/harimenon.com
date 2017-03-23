@@ -4,7 +4,8 @@ title: Happy New Year!
 date: "2017-01-02 19:16"
 comments: true
 categories:
-  - non-tech
+ - non-tech
+tags:
   - English Blog
   - personal
   - happy new year

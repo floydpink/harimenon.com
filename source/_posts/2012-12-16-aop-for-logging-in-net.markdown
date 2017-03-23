@@ -5,6 +5,7 @@ date: 2012-12-16T11:23:00-08:00
 comments: true
 categories:
 - technical
+tags:
 - cross-cutting concerns
 - .NET
 - aspect oriented programming

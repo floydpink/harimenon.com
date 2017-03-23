@@ -3,7 +3,9 @@ layout: post
 title: "My GPG Public Key"
 date: 2014-02-16 14:20
 comments: true
-categories: [technical, gnupg key, security, encryption, pgp]
+categories:
+ - technical
+tags: [gnupg key, security, encryption, pgp]
 published: true
 created_at: Sun 16 Feb 2014 14:20:00 EST
 ---

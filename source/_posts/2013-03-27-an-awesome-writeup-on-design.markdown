@@ -7,7 +7,9 @@ description: "Linklog of an Information Architects article found from twitter."
 keywords: "design, Information Architects, good design"
 published: true
 external-url: http://informationarchitects.net/blog/learning-to-see
-categories: [technical, design, linklog, blog]
+categories:
+ - technical
+tags: [design, linklog, blog]
 ---
 
 I happened on this tweet from Sven Fuchs ([@svenfuchs](https://twitter.com/svenfuchs)) yesterday:

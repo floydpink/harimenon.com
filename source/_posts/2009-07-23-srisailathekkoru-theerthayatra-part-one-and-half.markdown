@@ -4,8 +4,9 @@ title: "ശ്രീശൈലത്തെക്കൊരു 'തീര്‍ത�
 date: 2009-07-23T23:39:00-04:00
 comments: true
 categories:
- - Malayalam Blog
  - non-tech
+tags:
+ - Malayalam Blog
  - personal
 published: true
 

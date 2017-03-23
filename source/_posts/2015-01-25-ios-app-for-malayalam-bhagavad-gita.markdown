@@ -4,7 +4,8 @@ title: iOS App for Malayalam Bhagavad Gita
 date: "2015-01-25 16:12"
 comments: true
 categories:
-  - technical
+ - technical
+tags:
   - iOS
   - mobile app
   - malayalam

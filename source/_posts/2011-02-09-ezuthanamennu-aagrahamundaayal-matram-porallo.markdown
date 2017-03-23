@@ -3,7 +3,11 @@ layout: post
 title: "എഴുതണമെന്നു ആഗ്രഹമുണ്ടായാല്‍ മാത്രം പോരല്ലോ..."
 date: 2011-02-09T21:46:00-05:00
 comments: true
-categories: [Malayalam Blog, non-tech, personal]
+categories:
+ - non-tech
+tags:
+ - Malayalam Blog
+ - personal
 published: true
 
 ---

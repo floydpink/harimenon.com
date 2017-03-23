@@ -6,8 +6,9 @@ comments: true
 description: "Add a custom splash screen for an Ember.js application, that could be especially usefult if it's deployed as mobile apps."
 keywords: "splash, screen, mobile splash screen, ember.js, ember.js app splash, ember.js splash, ember splash"
 published: true
-categories: 
-  - technical
+categories:
+ - technical
+tags:
   - ember.js
   - splash screen
   - mobile

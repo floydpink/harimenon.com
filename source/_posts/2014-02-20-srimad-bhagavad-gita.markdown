@@ -5,7 +5,9 @@ date: 2014-02-20 15:50
 comments: true
 created_at: Thu 20 Feb 2014 15:50:00 EST
 published: true
-categories: [Malayalam Blog, non-tech, Srimad Bhagavad Gita, hinduism, gita]
+categories:
+ - non-tech
+tags: [Malayalam Blog, Srimad Bhagavad Gita, hinduism, gita]
 ---
 ### <a name="contents"></a>(അര്‍ഥസഹിതം)
 

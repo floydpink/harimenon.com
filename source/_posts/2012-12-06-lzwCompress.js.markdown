@@ -5,6 +5,7 @@ date: 2012-12-06T19:36:00-08:00
 comments: true
 categories:
 - technical
+tags:
 - indexedDb
 - lzwCompress.js
 - JSON Key Optimization

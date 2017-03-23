@@ -3,7 +3,9 @@ layout: post
 title: "Start WEBrick Web Server Here"
 date: 2013-02-14 21:40
 comments: true
-categories: [technical, webrick, webserver, bash]
+categories:
+ - technical
+tags: [webrick, webserver, bash]
 published: true
 
 ---

@@ -4,7 +4,9 @@ title: "Trees in the Database - Advanced Data Structures"
 date: 2013-04-26 11:29
 comments: true
 description: "Storing tree structures in a bi-dimensional table has always been problematic. The simplest tree models are usually quite inefficient, while more complex ones aren't necessarily better. This talk briefly goes through the most used models (adjacency list, materialized path, nested sets) and introduce some more advanced ones belonging to the nested intervals family (Farey algorithm, Continued Fractions, and other encodings). The advantages and pitfalls of each model, some proprietary solutions (e.g. Oracle's CONNECT BY) and one of the SQL Standard's upcoming features, Common Table Expressions are described."
-categories: [technical, Data Modeling, tree, slideshare]
+categories:
+ - technical
+tags: [Data Modeling, tree, slideshare]
 published: true
 
 ---
