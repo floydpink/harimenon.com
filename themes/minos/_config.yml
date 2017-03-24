@@ -1,11 +1,11 @@
 # Header
 logo_text: Home
 menu:
+  About Me: about
   Archives: archives
   Categories: categories
-  Labels: tags
-  Rss: /atom.xml
-  About Me: about
+  Tags: tags
+  RSS: /atom.xml
 
 # Content
 excerpt_link: Read More
