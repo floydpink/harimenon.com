@@ -1,8 +1,7 @@
 ---
 published: true
 layout: page
-date: "2017-03-23 22:06"
-comments: true
+comments: false
 sharing: false
 footer: false
 ---
