@@ -80,3 +80,6 @@ feed:
   limit: 25
   hub:
   content:
+
+# Disqus comments
+disqus_shortname: harimenonenglishblog
