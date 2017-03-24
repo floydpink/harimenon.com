@@ -15,7 +15,7 @@ created_at: "Sat 04 Mar 2017 20:30:00 EST"
 
 ### ധിത്തികി ധിത്തികി - <small>എന്നും എപ്പോഴും (2015)</small>
 
-<iframe width="420" height="315" src="//www.youtube.com/v/-6k7k5jaARY?version=3&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=1&iv_load_policy=3&fs=1&hl=en_US" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-6k7k5jaARY" frameborder="0" allowfullscreen></iframe>
 
 <!-- more -->
 

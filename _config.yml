@@ -72,3 +72,11 @@ deploy:
   repo: git@github.com:floydpink/new.harimenon.com
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+
+# RSS Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 25
+  hub:
+  content:

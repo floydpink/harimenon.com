@@ -17,7 +17,7 @@ tags:
 published: true
 ---
 
-<iframe width="420" height="315" src="//www.youtube.com/v/YuyyArqlkXM?version=3&start=3134&end=3213&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=1&iv_load_policy=3&fs=1&hl=en_US" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YuyyArqlkXM" frameborder="0" allowfullscreen></iframe>
 <!-- more -->
 ``` plain
 പ്രണയം... പ്രാണൻ കൊടുത്താലും നാണയം ഇല്ലെങ്കിൽ നാണം കേടുന്നൊരു നാട്ടിലാണിന്നെന്റെ പ്രണയം !
