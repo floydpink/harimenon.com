@@ -15,7 +15,7 @@ created_at: "Sun 25 Jan 2015 16:12:00 EDT"
 
 ## iOS app as a Malayalam eBook on Srimad Bhagavad Gita
 
-Published an open source iOS app last week that is a port of [my earlier Android app](https://www.harimenon.com/blog/2014/09/10/android-app-for-malayalam-bhagavad-gita/) - essentially an eBook in Malayalam on Srimad Bhagavad Gita:
+Published an open source iOS app last week that is a port of [my earlier Android app](https://www.harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/) - essentially an eBook in Malayalam on Srimad Bhagavad Gita:
 
 [![Download on the App Store](https://floydpink.github.io/BhagavadGita/images/app-store.png)](https://itunes.apple.com/us/app/bhagavad-gita-malayalam/id953008948?mt=8&uo=4)
 
