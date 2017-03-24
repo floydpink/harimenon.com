@@ -35,11 +35,11 @@ Check out my GitHub profile for all the stuff that I fork and push to.
 
 Here are the links to my profiles on some of the tech/social sites. Connect with me on any of these or send me an email to 'me@<this-site-domain>'.
 
-## [<i class="fa fa-github-square fa-lg"></i>](https://github.com/floydpink "GitHub") [<i class="fa fa-stack-overflow fa-lg"></i>](http://stackoverflow.com/users/218882/floyd-pink "Stack Overflow") [<i class="fa fa-twitter-square fa-lg"></i>](http://twitter.com/menonHari "Twitter") [<i class="fa fa-linkedin-square fa-lg"></i>](http://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [<i class="fa fa-signal fa-lg"></i>](http://careers.stackoverflow.com/hari "Stack Overflow Careers") [<i class="fa fa-flickr fa-lg"></i>](http://flickr.com/photos/me_haridas "Flickr") [<i class="fa fa-google-plus-square fa-lg"></i>](https://plus.google.com/115681177381332236508/about "Google+")
+## [<i class="fa fa-github-square fa-lg"></i>](https://github.com/floydpink "GitHub") [<i class="fa fa-stack-overflow fa-lg"></i>](http://stackoverflow.com/users/218882/floyd-pink "Stack Overflow") [<i class="fa fa-twitter-square fa-lg"></i>](http://twitter.com/menonHari "Twitter") [<i class="fa fa-linkedin-square fa-lg"></i>](http://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [<i class="fa fa-flickr fa-lg"></i>](http://flickr.com/photos/me_haridas "Flickr") [<i class="fa fa-google-plus-square fa-lg"></i>](https://plus.google.com/115681177381332236508/about "Google+")
 
 [My GPG Key](/gpg/public-key.txt "If you need to send me a really secure email !")
 
-[My Résumé](/2014/12/30/resume/ "My résumé imported from Stack Overflow Careers!")
+[My Résumé](http://stackoverflow.com/story/hari "My 'Developer Story' on Stack Overflow Jobs!")
 
 
 ###### Meta
