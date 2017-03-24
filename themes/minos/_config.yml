@@ -1,7 +1,8 @@
 # Header
 logo_text: Home
 menu:
-  Blog: archives
+  Archives: archives
+  Categories: categories
   Labels: tags
   Rss: /atom.xml
   About Me: about
