@@ -15,7 +15,7 @@ Anyways, since the time I read that blog, I have been thinking of trying to impl
 
 <!-- more -->Today, I took it one step further by implementing it here and on [the blog there](http://flickrdownloadr.com/blogs/), which are both built with the awesome [Octopress](http://octopress.org) platform. Turned out to be pretty straight-forward - just add the below snippet into the `source/_includes/custom/head.html` and you should be all set.
 
-``` html twitter_cards
+``` html
 {% raw %}{% if site.twitter_user %}
     <meta property="twitter:card" content="summary">
     <meta property="twitter:site" content="{{ site.twitter_user }}">

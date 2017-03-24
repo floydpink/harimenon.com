@@ -20,7 +20,7 @@ For the uninitiated, Travis-CI is a really nice, open source, free and hosted co
 #### 1. Revert _config.yml
 
 As the `before_script` is using `rake setup_github_pages` task every time on Travis to setup the _deploy git correctly, it was overwriting the `_config.yml` `url` value to the github `url`, which would be a problem, if like me, you are deploying this to a custom domain.
-``` diff _config.yml
+``` diff
  #      Main Configs       #
  # ----------------------- #
 
@@ -36,7 +36,7 @@ Instead of the correct URL - `http://www.harimenon.com/blog/2012/12/16/aop-for-l
 
 To fix this, we should add an additional line to revert the `_config.yml` (especially for the blogs that are hosted with cutom URLs).
 
-``` diff .travis.yml
+``` diff
    - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
    # Set deployment target to github pages
    - rake setup_github_pages[$REPO]
@@ -53,7 +53,7 @@ As a _P.S._ to his blog post, Sergey talks about how Travis builds the project t
 
 From one of the earlier encounters, I remembered that the [Travis-CI documentation](http://about.travis-ci.org/docs/user/how-to-skip-a-build/) does detail how a specific commit could be made to skip the ci build. Just by including `[ci skip]` (including the brackets) somewhere in the commit message. So the first tweak I did is this in the `Rakefile`:
 
-``` diff Rakefile
+``` diff
      system "git add ."
      system "git add -u"
      puts "\n## Commiting: Site updated at #{Time.now.utc}"
