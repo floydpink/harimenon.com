@@ -46,7 +46,7 @@ Here are the links to my profiles on some of the tech/social sites. Connect with
 
 Recently I moved this blog from [Octopress](http://octopress.org/) into [Hexo](http://hexo.io/) and have been loving it.
 
-I was actively using Octopress for quite a while and this blog was [being built dynamically](https://www.harimenon.com/blog/2013/01/27/auto-deploying-to-my-octopress-blog/) every time [the source repository](https://github.com/floydpink/harimenon.com) is modified and pushed to. I'd soon hope to get the same done with Hexo.
+I was actively using Octopress for quite a while and this blog was [being built dynamically](https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/) every time [the source repository](https://github.com/floydpink/harimenon.com) is modified and pushed to. I'd soon hope to get the same done with Hexo.
 
 The content of the old home page has been archived [here](/bloggerhome), and it's preserved in its exact form [at blogger](http://harimenonhome.blogspot.com)! You could also see the history of this page [on GitHub](https://github.com/floydpink/harimenon.com/commits/master/source/index.markdown)
 

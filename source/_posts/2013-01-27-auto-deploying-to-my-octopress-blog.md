@@ -10,7 +10,7 @@ published: true
 
 A couple weeks earlier, [Sergey Klimov](http://darvin.github.com/) (who is [@darvin](https://github.com/darvin) at GitHub) opened the [issue #940](https://github.com/imathis/octopress/issues/940) at [imathis/octopress](https://github.com/imathis/octopress), which is more a feature suggestion than an issue.
 
-Within that, he has linked to [his detailed blog post](http://darvin.github.com/blog/2013/01/13/Prose_Octopress_TravisIO/ "Prose.io + Octopress + Travis-CI + GitHub Pages = ♥") suggesting how the awesome [Travis-CI](https://travis-ci.org/) could be configured to do the `rake generate` and `rake deploy` for you, when you add/update new posts to an [octopress](http://octopress.org/) blog, even from browser-based editors like either the built-in GitHub editor, or a third-party tool like the [prose.io](http://prose.io) editor (which is really awesome too, BTW).
+Within that, he has linked to [his detailed blog post](http://darvin.github.io/blog/2013/01/13/Prose_Octopress_TravisIO/ "Prose.io + Octopress + Travis-CI + GitHub Pages = ♥") suggesting how the awesome [Travis-CI](https://travis-ci.org/) could be configured to do the `rake generate` and `rake deploy` for you, when you add/update new posts to an [octopress](http://octopress.org/) blog, even from browser-based editors like either the built-in GitHub editor, or a third-party tool like the [prose.io](http://prose.io) editor (which is really awesome too, BTW).
 
 For the uninitiated, Travis-CI is a really nice, open source, free and hosted continuous integration service that could build and run the unit tests for you, on every commit to a GitHub repository. It supports projects in a multitude of languages, as seen [here](http://about.travis-ci.org/docs/user/getting-started/#Travis-CI-Overview). The service allows you to configure steps that would be run [before, after and during the build and test process](http://about.travis-ci.org/docs/user/build-configuration/), with just one [YAML](http://www.yaml.org/ "YAML Ain't Markup Language") file (named `.travis.yml`) in the root of your repo. Apart from running the many unit tests in the project and letting you know how your latest check-in affected the health of the project, the Travis-CI service could also do custom build tasks like a post-build deployment. And this is what Sergey has tappped into, for use with the deployment of an Octopress blog.
 
@@ -25,7 +25,7 @@ As the `before_script` is using `rake setup_github_pages` task every time on Tra
  #      Main Configs       #
  # ----------------------- #
 
--url: http://www.harimenon.com
+-url: https://harimenon.com
 +url: http://floydpink.github.com/harimenon
  title: Hari Menon
  subtitle: Namaste. Welcome to my personal space on the world wide web!
@@ -33,7 +33,7 @@ As the `before_script` is using `rake setup_github_pages` task every time on Tra
 ```
 This subtle little thing was manifest only in the tweet button behavior (which fortunately, I noticed when I was trying to tweet this very post) as seen in this screenshot:
 [{% img https://i.imgur.com/jLAFiwl.png 'Tweet button behavior' 'Tweet button behavior' %}](https://i.imgur.com/jLAFiwl.png)
-Instead of the correct URL - `http://www.harimenon.com/blog/2012/12/16/aop-for-logging-in-net/`, the tweet was showing - `http://floydpink.github.com/harimenon/blog/2012/12/16/aop-for-logging-in-net/`.
+Instead of the correct URL - `https://harimenon.com/blog/2012/12/16/aop-for-logging-in-net/`, the tweet was showing - `http://floydpink.github.com/harimenon/blog/2012/12/16/aop-for-logging-in-net/`.
 
 To fix this, we should add an additional line to revert the `_config.yml` (especially for the blogs that are hosted with cutom URLs).
 
