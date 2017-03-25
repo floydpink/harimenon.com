@@ -1,10 +1,11 @@
 ---
-layout: page
 title: "404 - Not Found!"
-sidebar: collapse
-comments: false
-sharing: false
-footer: false
+layout: about
+sitemap: false
 ---
 
-Oops, that's a stale/non existent URL. You could search from the search box above or go to the [home page](/).
+### four-oh-four !
+
+Oops, that's a stale/non existent URL. 
+
+You could search from the search box above or go to the [home page](/).
