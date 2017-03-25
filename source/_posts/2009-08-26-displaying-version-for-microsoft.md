@@ -11,7 +11,6 @@ tags:
  - sharepoint
  - form template
 published: true
-
 ---
 
 Add an expression box that has the below expression and Voila!

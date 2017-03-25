@@ -9,8 +9,6 @@ tags:
  - JavaScript
  - jQuery
 published: true
-
 ---
 
-<div class='post'>
-A little interesting snippet:<br /> {% gist 4218910 %} </div>
+A little interesting snippet: {% gist 4218910 %}

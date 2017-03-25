@@ -7,7 +7,6 @@ categories:
  - technical
 tags:
 published: true
-
 ---
 
 * Compare branches after squash merge or rebase

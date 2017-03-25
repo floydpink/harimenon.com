@@ -19,10 +19,9 @@ tags:
  - automation
  - MSBuild
 published: true
-
 ---
 
 I have posted an entry on the flickrdownloadr.com blog, about how the single click deployment came about.
 
-Check it out [here&hellip;](http://flickrdownloadr.com/blogs/blog/2013/01/15/single-click-deployment-of-wpf-application-to-github-pages/)
+Check it out [here](http://flickrdownloadr.com/blogs/blog/2013/01/15/single-click-deployment-of-wpf-application-to-github-pages/)&hellip;
 

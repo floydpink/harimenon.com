@@ -6,8 +6,9 @@ comments: true
 categories:
  - technical
 tags:
+ - pdftk
+ - bulk operation
 published: true
-
 ---
 
 {% gist 4218972 %}

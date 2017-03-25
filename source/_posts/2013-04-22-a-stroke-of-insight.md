@@ -8,7 +8,7 @@ keywords: "ted, brain, nirvana, stroke, hemorrhage, spirituality"
 published: true
 categories:
   - non-tech
-tags: [English Blog, blog, ted, brain, nirvana, stroke, hemorrhage, spirituality]
+tags: [English Blog, blog, ted, brain, nirvana, stroke, hemorrhage, spirituality, video]
 ---
 
 ### You must watch [this amazing TED video](http://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight.html)

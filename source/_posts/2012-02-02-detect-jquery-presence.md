@@ -9,7 +9,6 @@ tags:
  - jQuery
  - JavaScript
 published: true
-
 ---
 
-<div class='post'>{% gist 4218926 %}</div>
+{% gist 4218926 %}

@@ -7,8 +7,9 @@ created_at: Thu 20 Feb 2014 15:50:00 EST
 published: true
 categories:
  - non-tech
-tags: [Malayalam Blog, Srimad Bhagavad Gita, hinduism, gita]
+tags: [Malayalam Blog, Srimad Bhagavad Gita, hinduism, gita, bhagavad gita]
 ---
+
 ### <a name="contents"></a>(അര്‍ഥസഹിതം)
 
 Source: [http://hinduebooks.blogspot.com](http://hinduebooks.blogspot.com)
@@ -54,6 +55,7 @@ Source: [http://hinduebooks.blogspot.com](http://hinduebooks.blogspot.com)
 [മോക്ഷസംന്യാസയോഗഃ](#eighteen)
 
 <!-- more -->
+
 ## ഓം
 
 
@@ -222,7 +224,7 @@ Source: [http://hinduebooks.blogspot.com](http://hinduebooks.blogspot.com)
 
 ```
 അത്ര ശൂരാ മഹേഷ്വാസാ ഭീമാര്‍ജുനസമാ യുധി 
-യുയുധാനോ വിരാടശ്ച ദ്രുപദശ്ച മഹാരഥഃ 			(4)
+യുയുധാനോ വിരാടശ്ച ദ്രുപദശ്ച മഹാരഥഃ 		(4)
 ധൃഷ്ടകേതുശ്ചേകിതാനഃ കാശിരാജശ്ച വീര്യവാന്‍ 
 പുരുജിത്കുന്തിഭോജശ്ച ശൈബ്യശ്ച നരപുംഗവഃ 
 യുധാമന്യുശ്ച വിക്രാന്ത ഉത്തമൌജാശ്ച വീര്യവാന്‍ 
@@ -284,7 +286,7 @@ Source: [http://hinduebooks.blogspot.com](http://hinduebooks.blogspot.com)
 
 ```
 പാഞ്ചജന്യം ഹൃഷീകേശോ ദേവദത്തം ധനഞ്ജയഃ 
-പൌണ്ഡ്രം ദധ്മൗ മഹാശങ്ഖം ഭീമകര്‍മാ  വൃകോദരഃ 		(15)
+പൌണ്ഡ്രം ദധ്മൗ മഹാശങ്ഖം ഭീമകര്‍മാ  വൃകോദരഃ 	(15)
 ```
 
 കൃഷ്ണന്‍ പാഞ്ചജന്യവും അര്‍ജുനന്‍ ദേവദത്തമെന്ന ശംഖും മുഴക്കി. ഉഗ്രക‍ര്‍മ്മങ്ങള്‍ ചെയ്യുന്നവനായ ഭീമസേനന്‍ പൌണ്ഡ്രമെന്ന മഹാ ശംഖും മുഴക്കി.

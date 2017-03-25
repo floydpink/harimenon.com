@@ -6,9 +6,11 @@ comments: true
 categories:
  - technical
 tags:
+ - .NET
+ - meta-programming
 published: true
-
 ---
 
-<div class='post'>
-Note to self: this below function has some useful stuff{% gist 4218940 %}</div>
+Note to self: this below function has some useful stuff
+
+{% gist 4218940 %}

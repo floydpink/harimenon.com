@@ -19,6 +19,7 @@ Have been playing around with [Ember.js](http://emberjs.com) quite a bit lately 
 And I implemented a splash screen for that app using the below technique.
 
 <!-- more -->
+
 ``` javascript
 var App = Ember.Application.createWithMixins({
     LOG_TRANSITIONS: true,

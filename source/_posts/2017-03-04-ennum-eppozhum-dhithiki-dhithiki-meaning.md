@@ -10,12 +10,13 @@ tags:
   - Malayalam Blog
   - personal
   - malayalam song meaning
+  - video
 created_at: "Sat 04 Mar 2017 20:30:00 EST"
 ---
 
 ### ധിത്തികി ധിത്തികി - <small>എന്നും എപ്പോഴും (2015)</small>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-6k7k5jaARY" frameborder="0" allowfullscreen></iframe>
+{% youtube -6k7k5jaARY %}
 
 <!-- more -->
 

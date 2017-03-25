@@ -17,8 +17,10 @@ tags:
 published: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YuyyArqlkXM" frameborder="0" allowfullscreen></iframe>
+{% youtube YuyyArqlkXM %}
+
 <!-- more -->
+
 ``` plain
 പ്രണയം... പ്രാണൻ കൊടുത്താലും നാണയം ഇല്ലെങ്കിൽ നാണം കേടുന്നൊരു നാട്ടിലാണിന്നെന്റെ പ്രണയം !
 

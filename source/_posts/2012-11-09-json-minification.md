@@ -8,8 +8,6 @@ categories:
 tags:
  - JavaScript
 published: true
-
 ---
 
-<div class='post'>
-This little JS file helps in minifying and expanding JSON by replacing the keys with numbers: {% gist 4218984 %}</div>
+This little JS file helps in minifying and expanding JSON by replacing the keys with numbers: {% gist 4218984 %}

@@ -12,7 +12,6 @@ tags:
  - jQuery
  - JavaScript
 published: true
-
 ---
 
 {% gist 4218887 %}

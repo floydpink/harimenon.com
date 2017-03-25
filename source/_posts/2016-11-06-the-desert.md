@@ -13,16 +13,17 @@ tags:
   - poem
 created_at: "Sun 06 Nov 2016 08:41:00 EST"
 ---
-The sun is blazing<br />
-There's no water<br />
-There's almost no food<br />
-There's only animals<br />
 
-I love the desert<br />
-Be careful<br />
-Because there's cactus<br />
-It has thorns<br />
-<br />
+The sun is blazing
+There's no water
+There's almost no food
+There's only animals
+
+I love the desert
+Be careful
+Because there's cactus
+It has thorns
+
  \- Maya Haridas
 
 > The very first poem by (5.5 yo) Maya - 11/05/2016

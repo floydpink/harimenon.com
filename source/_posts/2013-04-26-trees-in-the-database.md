@@ -8,7 +8,6 @@ categories:
  - technical
 tags: [Data Modeling, tree, slideshare]
 published: true
-
 ---
 
 This could be useful - [Trees In The Database - Advanced data structure](http://www.slideshare.net/quipo/trees-in-the-database-advanced-data-structures)
