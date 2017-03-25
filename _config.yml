@@ -83,3 +83,8 @@ feed:
 
 # Disqus comments
 disqus_shortname: harimenonenglishblog
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
