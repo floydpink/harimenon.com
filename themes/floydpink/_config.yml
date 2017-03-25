@@ -19,3 +19,6 @@ favicon: /favicon.png
 # Share
 share_jia: false
 share_addthis: true
+
+# RSS
+rss: /atom.xml
