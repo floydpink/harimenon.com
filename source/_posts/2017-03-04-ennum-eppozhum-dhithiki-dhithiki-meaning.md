@@ -49,7 +49,7 @@ created_at: "Sat 04 Mar 2017 20:30:00 EST"
 രാധേ&hellip; യാദവ കുലമൗലേ&hellip;   
 കണ്ണനു നീയേ വനമാല&hellip; (2)  
 
-> *Radha*, the pristine one who has roots from the *yadava* clan,  
+> *O Radha!*, the pristine one who has roots from the *yadava* clan,  
 > You are the wild-flower garland for *Krishna*
 
 ( ജതി&hellip; )
@@ -86,7 +86,7 @@ created_at: "Sat 04 Mar 2017 20:30:00 EST"
 യദുകുലപ്രിയേ   മുരഹരപ്രിയേ   മധുമരാളികേ&hellip;  
 ആ&hellip; ആ&hellip; ആ&hellip;   
 
-> The lover of the one from the *Yadhu* clan, the mighty Vishnu,   
+> The lover of the one from the *Yadhu* clan, the mighty *Krishna*,   
 > Oh, the sweet female swan! 
 
 ധിത്തികി ധിത്തികി ധെയ്  
