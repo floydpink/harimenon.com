@@ -8,7 +8,7 @@ menu:
   RSS: /atom.xml
 
 # Content
-excerpt_link: Read More
+excerpt_link: Read More…
 toc: false #  Whether to show the table of contents in articles
 fancybox: true
 
@@ -18,7 +18,7 @@ favicon: /favicon.png
 
 # Share
 share_jia: false
-share_addthis: true
+share_addthis: false
 
 # RSS
 rss: /atom.xml
