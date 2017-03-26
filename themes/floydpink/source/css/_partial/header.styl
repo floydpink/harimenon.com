@@ -25,14 +25,44 @@ $nav-link
   text-decoration: none
   transition: opacity 0.2s
   display: block
-  padding: 20px 15px
+  padding: 15px
 
 .main-nav-link
   @extend $nav-link
   font-weight: 600
   @media mq-mobile
+    padding: 10px 15px
     float: none
+
+.logo-text,
+.main-nav-link
+  .fa
+    display: inline-block
+    width: 70px
     text-align: center
+    @media mq-mobile
+      display: inline
+    > .nav-text
+      display: block
+      padding 5px 0
+      white-space: nowrap
+      font-size: 0.7em
+      opacity: 0
+      transition: opacity 0.5s ease-out
+      @media mq-mobile
+        display: inline-block
+        padding 0
+        margin-left: 15px
+        opacity: 1
+  &:hover
+    .fa > .nav-text
+        opacity: 1
+
+.logo-text
+  .fa
+    > .nav-text
+      @media mq-mobile
+        opacity: 0
 
 #main-nav-toggle
   @extend $nav-link
@@ -64,11 +94,14 @@ $nav-link
 
 #search-form-wrap
   top: 15px
-  padding: 20px 15px
+  padding: 15px 0
   @media mq-mobile
-    text-align: center
+    text-align: left
 
 .search-form
+  padding 5px
+  border: 1px dotted darken(color-border, 10%)
+  border-radius(15px)
   clearfix()
   @media mq-mobile
     display: inline-block
@@ -84,6 +117,8 @@ $nav-link
   &::-webkit-search-results-decoration
   &::-webkit-search-cancel-button
     -webkit-appearance: none
+  @media mq-mobile
+    width: 250px
 
 .search-form-submit
   @extend $nav-link

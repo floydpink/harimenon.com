@@ -50,7 +50,7 @@ body
   position: relative
 
 .logo
-  width: 94px
+  width: 0
   height: 57px
   background-image: url(images/logo.png)
   background-size: 74px 28px
@@ -66,6 +66,21 @@ body
   margin-right: 25px
   text-decoration: none
   background-image: none
+
+.fa
+  color: color-icons
+
+.article-entry
+  .social-icons
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: center
+    a
+      border-bottom-color: transparent
+      i.fa
+        @media mq-mobile
+          font-size: 2em
 
 @import "_extend"
 @import "_partial/header"

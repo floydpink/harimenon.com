@@ -1,11 +1,12 @@
 # Header
-logo_text: Home
+logo_text:
 menu:
-  About Me: about
-  Archives: archives
-  Categories: categories
-  Tags: tags
-  RSS: /atom.xml
+  <i title="Home" class="fa fa-home fa-2x fa-fw"><span class="nav-text">Home</span></i>: /
+  <i title="About Me" class="fa fa-user-circle-o fa-2x fa-fw"><span class="nav-text">About Me</span></i>: about
+  <i title="Archives" class="fa fa-archive fa-2x fa-fw"><span class="nav-text">Archives</span></i>: archives
+  <i title="Categories" class="fa fa-folder-open fa-2x fa-fw"><span class="nav-text">Categories</span></i>: categories
+  <i title="Tags" class="fa fa-tags fa-2x fa-fw"><span class="nav-text">Tags</span></i>: tags
+  <i title="RSS" class="fa fa-rss fa-2x fa-fw"><span class="nav-text">RSS</span></i>: /atom.xml
 
 # Content
 excerpt_link: Read More…

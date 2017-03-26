@@ -6,6 +6,17 @@ layout: "about"
 
 I am a polyglot developer and have been hacking at things for over fifteen years now at the <a href="#" title="2017-03-23 22:06" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
 
+#### Contact Me
+
+Here are the links to my profiles on some of the tech/social sites. Connect with me on any of these or send me an email to 'me@&lt;this-site's-domain&gt;'.
+
+<div class="social-icons">[{% fa github-square 3x fw %}](https://github.com/floydpink "GitHub") [{% fa stack-overflow 3x fw %}](http://stackoverflow.com/users/218882/floyd-pink "Stack Overflow") [{% fa twitter-square 3x fw %}](http://twitter.com/menonHari "Twitter") [{% fa linkedin-square 3x fw %}](http://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [{% fa flickr 3x fw %}](http://flickr.com/photos/me_haridas "Flickr") [{% fa google-plus-square 3x fw %}](https://plus.google.com/115681177381332236508/about "Google+")</div>
+
+[My GPG Key](/gpg/public-key.txt "If you need to send me a really secure email !")
+
+[My Résumé](http://stackoverflow.com/story/hari "My 'Developer Story' on Stack Overflow Jobs!")
+
+
 #### Technical Experience
 
 `C#` and `.NET` have been my bread and butter for quite some time now, with an increased focus into `Microsoft Azure`, `Windows Store Apps` `Xamarin` etc. for a little while in between. Until about a year or so ago, my day job used to be building on native mobile apps on all of `iOS`/`Android` and `Windows` platforms; but I am presently working on a pretty large, distributed web app that mostly satisfies the guidelines to be called a [twelve-factor app](https://12factor.net/).
@@ -30,17 +41,6 @@ These are the few that I think are worthy of a mention here:
  - [Mantis CI](http://floydpink.github.io/Mantis-CI/) - Android & iOS applications (done in PhoneGap and ember.js) for Travis CI (not maintaining this anymore).
 
 Check out my GitHub profile for all the stuff that I fork and push to.
-
-#### Contact Me
-
-Here are the links to my profiles on some of the tech/social sites. Connect with me on any of these or send me an email to 'me@&lt;this-site-domain&gt;'.
-
-## [<i class="fa fa-github-square fa-lg"></i>](https://github.com/floydpink "GitHub") [<i class="fa fa-stack-overflow fa-lg"></i>](http://stackoverflow.com/users/218882/floyd-pink "Stack Overflow") [<i class="fa fa-twitter-square fa-lg"></i>](http://twitter.com/menonHari "Twitter") [<i class="fa fa-linkedin-square fa-lg"></i>](http://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [<i class="fa fa-flickr fa-lg"></i>](http://flickr.com/photos/me_haridas "Flickr") [<i class="fa fa-google-plus-square fa-lg"></i>](https://plus.google.com/115681177381332236508/about "Google+")
-
-[My GPG Key](/gpg/public-key.txt "If you need to send me a really secure email !")
-
-[My Résumé](http://stackoverflow.com/story/hari "My 'Developer Story' on Stack Overflow Jobs!")
-
 
 ###### Meta
 

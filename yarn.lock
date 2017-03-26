@@ -864,6 +864,10 @@ hexo-server@^0.2.0:
     opn "^4.0.0"
     serve-static "^1.10.0"
 
+hexo-tag-fontawesome@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/hexo-tag-fontawesome/-/hexo-tag-fontawesome-1.0.0.tgz#dbf2419560ee9295f9be255f6620cc86e9486ebb"
+
 hexo-util@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-0.6.0.tgz#b5719cc2d44d9d45522dddcf96143919824b7803"
