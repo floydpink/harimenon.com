@@ -65,6 +65,69 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: floydpink
 
+# Autoprefixer
+autoprefixer:
+  exclude:
+    - '*.min.css'
+  browsers:
+    - 'last 2 versions'
+
+# Minification
+html_minifier:
+  exclude:
+    - resume-20151013.html
+    - resume-20170116.html
+  removeComments: false
+  removeCommentsFromCDATA: true
+  removeCDATASectionsFromCDATA: true
+  collapseWhitespace: true
+  conservativeCollapse: true
+  preserveLineBreaks: true
+  collapseBooleanAttributes: true
+  removeAttributeQuotes: false
+  removeRedundantAttributes: true
+  preventAttributesEscaping: false
+  useShortDoctype: false
+  removeEmptyAttributes: true
+  removeScriptTypeAttributes: false
+  removeStyleLinkTypeAttributes: false
+  removeOptionalTags: false
+  removeIgnored: true
+  removeEmptyElements: false # This appears to break if set to true
+  lint: false
+  keepClosingSlash: false
+  caseSensitive: false
+  minifyJS: true
+  minifyCSS: true
+  minifyURLs: false
+  #ignoreCustomComments
+  #processScripts
+  #maxLineLength
+  #customAttrAssign
+  #customAttrSurround
+  #customAttrCollapse
+  #quoteCharacter
+
+clean_css:
+  exclude:
+    - '*.min.css'
+
+uglify:
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+image_minifier:
+  enable: true
+  interlaced: false
+  multipass: false
+  optimizationLevel: 2
+  pngquant: false
+  progressive: false
+  exclude:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
