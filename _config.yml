@@ -10,6 +10,11 @@ author: Hari Menon
 language: en
 timezone: America/New_York
 
+# Author Detail
+authorDetail:
+  avatar:
+    path: "sample/avatar.png"
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://harimenon.com
@@ -64,6 +69,21 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: floydpink
+
+# AMP
+# The following settings is the quick start options.
+generator_amp:
+  templateDir:  amp-template
+  assetDistDir: amp-dist
+  logo:
+    path:   sample/logo.png
+    width:  600
+    height: 60
+  substituteTitleImage:
+    path:   sample/sample-substituteTitleImage.png
+    width:  1024
+    height: 800
+  warningLog: true   # To AMP HTML validate automatically, please set true.
 
 # Autoprefixer
 autoprefixer:

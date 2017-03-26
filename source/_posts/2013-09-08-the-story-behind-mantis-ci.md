@@ -14,12 +14,12 @@ created_at: Mon 09 Sep 2013 00:49:00 EDT
 
 <span style="color: #ff0000;">M</span>obile <span style="color: #ff0000;">A</span>pplicatio<span style="color: #ff0000;">n</span> for <span style="text-wrap: none;"><span style="color: #ff0000;">T</span>rav<span style="color: #ff0000;">is CI</span>™</span>
 
-<a href="https://play.google.com/store/apps/details?id=com.floydpink.android.travisci" target="_blank" style="display:inline-block;overflow:hidden;background:url(https://developer.android.com/images/brand/en_generic_rgb_wo_45.png) no-repeat;width:135px;height:45px;background-position:center;@media only screen{background-image:url(https://developer.android.com/images/brand/en_generic_rgb_wo_45.png);}"></a>
-<a href="https://itunes.apple.com/us/app/travis-ci-mobile/id665742482?mt=8&amp;uo=4" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(/css/images/app-store-badge.png) no-repeat;width:135px;height:45px;background-position:center;@media only screen{background-image:url(http://linkmaker.itunes.apple.com/htmlResources/assets/images/web/linkmaker/badge_appstore-lrg.svg);}"></a>
+<a href="https://play.google.com/store/apps/details?id=com.floydpink.android.travisci" target="_blank" style="display:inline-block;overflow:hidden;background:url(https://developer.android.com/images/brand/en_generic_rgb_wo_45.png) no-repeat;width:135px;height:45px;background-position:center;"></a>
+<a href="https://itunes.apple.com/us/app/travis-ci-mobile/id665742482?mt=8&amp;uo=4" target="_blank" style="display:inline-block;overflow:hidden;background:url(/images/app-store-badge.png) no-repeat;width:135px;height:45px;background-position:center;"></a>
 
 _**tl;dr**: [Mantis CI](http://floydpink.github.io/Mantis-CI/), is a free app (available for both iOS/Android) that attempts to be a mobile-optimized client for Travis CI. Please install them and share your feedback._
 
-<div style="text-align:center;"><a href="http://floydpink.github.io/Mantis-CI/"><img alt="Mantis CI" src="https://i.imgur.com/JYV2Nyz.png" width="300" /></a></div>
+<div style="text-align:center;"><a href="http://floydpink.github.io/Mantis-CI/"><img alt="Mantis CI" src="https://i.imgur.com/JYV2Nyz.png" width="300" height="300" /></a></div>
 
 For a while now, a mobile port of the [Travis CI](https://travis-ci.org) web application that I packaged as a [PhoneGap](http://phonegap.com/) app had been available for Android [on Google Play](https://play.google.com/store/apps/details?id=com.floydpink.android.travisci).
 

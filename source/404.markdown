@@ -3,7 +3,7 @@ layout: about
 sitemap: false
 ---
 
-{% img /css/images/404.png "404 Not Found" %}
+{% img /images/404.png "404 Not Found" %}
 
 Oops, that's a stale/non existent URL. 
 

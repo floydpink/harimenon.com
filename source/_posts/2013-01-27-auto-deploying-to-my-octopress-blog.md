@@ -32,7 +32,7 @@ As the `before_script` is using `rake setup_github_pages` task every time on Tra
  author: Hari Menon
 ```
 This subtle little thing was manifest only in the tweet button behavior (which fortunately, I noticed when I was trying to tweet this very post) as seen in this screenshot:
-[{% img https://i.imgur.com/jLAFiwl.png 'Tweet button behavior' 'Tweet button behavior' %}](https://i.imgur.com/jLAFiwl.png)
+[{% img https://i.imgur.com/jLAFiwl.png 844 370 'Tweet button behavior' %}](https://i.imgur.com/jLAFiwl.png)
 Instead of the correct URL - `https://harimenon.com/blog/2012/12/16/aop-for-logging-in-net/`, the tweet was showing - `http://floydpink.github.com/harimenon/blog/2012/12/16/aop-for-logging-in-net/`.
 
 To fix this, we should add an additional line to revert the `_config.yml` (especially for the blogs that are hosted with cutom URLs).

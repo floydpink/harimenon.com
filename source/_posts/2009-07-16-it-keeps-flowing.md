@@ -23,7 +23,7 @@ published: true
 
 Life for me ain't going great at the moment. Or so is what the mind regurgitates again and again. Why?
 
-{% img [class names] /css/images/yin-and-yang.png 200 [Yin & Yang [Yin & Yang]] %}
+{% img [class names] /images/yin-and-yang.png 200 [Yin & Yang [Yin & Yang]] %}
 
 Likes/dislikes. Love/hate. Bliss/melancholy. Happiness/sorrow. Day/night. Summer/winter. Genius/retard. Black/white. Day/night. Summer/winter. Male/female. Light/darkness.
 
