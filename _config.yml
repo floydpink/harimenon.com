@@ -75,8 +75,6 @@ autoprefixer:
 # Minification
 html_minifier:
   exclude:
-    - resume-20151013.html
-    - resume-20170116.html
   removeComments: false
   removeCommentsFromCDATA: true
   removeCDATASectionsFromCDATA: true

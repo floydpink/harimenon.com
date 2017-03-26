@@ -1,10 +1,9 @@
 ---
-title: "404 - Not Found!"
 layout: about
 sitemap: false
 ---
 
-### four-oh-four !
+{% img /css/images/404.png "404 Not Found" %}
 
 Oops, that's a stale/non existent URL. 
 
