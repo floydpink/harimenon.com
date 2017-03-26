@@ -10,11 +10,6 @@ author: Hari Menon
 language: en
 timezone: America/New_York
 
-# Author Detail
-authorDetail:
-  avatar:
-    path: "sample/avatar.png"
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://harimenon.com
@@ -69,21 +64,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: floydpink
-
-# AMP
-# The following settings is the quick start options.
-generator_amp:
-  templateDir:  amp-template
-  assetDistDir: amp-dist
-  logo:
-    path:   sample/logo.png
-    width:  600
-    height: 60
-  substituteTitleImage:
-    path:   sample/sample-substituteTitleImage.png
-    width:  1024
-    height: 800
-  warningLog: true   # To AMP HTML validate automatically, please set true.
 
 # Autoprefixer
 autoprefixer:
@@ -167,3 +147,58 @@ disqus_shortname: harimenonenglishblog
 sitemap:
   path: sitemap.xml
   template: ./sitemap_template.xml
+
+# AMP
+# Advanced Settings of hexo-amp-generator
+generator_amp:
+
+  # 1. Google Adsense option
+  substituteGoogle_adsense:                   #(optional)
+    data_ad_client:                           #(optional)
+    data_ad_slot:                             #(optional)
+    width:                                    #(optional)
+    height:                                   #(optional)
+
+  # 2. Template Option
+  templateDir:  amp-template
+  assetDistDir: amp-dist
+  logo:
+    path:   sample/sample-logo.png
+    width:  600 # width <= 600px
+    height: 60  # width <= 60px
+  logo_topImage:                              #(optional)
+    path:   sample/sample-yoursite-logo.png   #(optional)
+    width:  1024                              #(optional)
+    height: 400                               #(optional)
+  substituteTitleImage:
+    path:   sample/sample-substituteTitleImage.png
+    width:  1024 # width >= 696px
+    height: 800
+#  placeholderImg:                             #(optional)
+#    path: sample/sample-placeholder.png
+  cssFilePath:      sample/sample-amp.css     #(optional)
+  templateFilePath: sample/sample-amp.ejs     #(optional)
+  # theme:                                    #(optional)
+  #   menu:                                   #(optional)
+  #     diary: /categories/diary/             #(optional) example menu
+  #     archives: /archives                   #(optional) example menu
+
+  # 3. Google Analytics Option
+  google_analytics: UA-4869398-4              #(optional)
+
+  # 4. Minify Option
+  html_minifier:                              #(optional)
+
+  # 5. Log & AMP Validation Option
+  warningLog: true                            #(optional)
+
+  # 6. Cache Option
+  cache: hexo-generator-amp-cached.json       #(optional)
+  # onlyForDeploy: false                      #(optional) #Deprecated <= v1.0.3
+
+# 7. Footer Option (authorDetail)
+authorDetail:
+  avatar:                                     #(optional)
+    path:   sample/sample-avator.png          #(optional)
+    width:  150                               #(optional)
+    height: 150                               #(optional)

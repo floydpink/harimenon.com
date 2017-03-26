@@ -9,6 +9,7 @@ tags:
   - Malayalam Blog
   - personal
   - asianet
+  - video
   - കവിത
   - നാദിർഷാ
   - ആസിഫ് അലി
