@@ -117,14 +117,12 @@ uglify:
   exclude:
     - '*.min.js'
 
-image_minifier:
-  enable: true
-  interlaced: false
-  multipass: false
+imagemin:
+  interlaced : true
+  multipass  : false
   optimizationLevel: 2
-  pngquant: false
-  progressive: false
-  exclude:
+  pngquant   : true
+  progressive: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
