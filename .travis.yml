@@ -8,10 +8,12 @@ branches:
   - master
 
 before_install:
+- export TZ=America/New_York
+- date
 - npm install -g hexo
 
 install:
-- npm install
+- yarn install --force
 
 before_script:
 - git config --global user.name "Floyd Pink (via Travis-CI)"
