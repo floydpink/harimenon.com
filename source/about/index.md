@@ -12,7 +12,7 @@ Here are the links to my profiles on some of the tech/social sites. Connect with
 
 <div class="social-icons">[{% fa github-square 3x fw %}](https://github.com/floydpink "GitHub") [{% fa stack-overflow 3x fw %}](http://stackoverflow.com/users/218882/floyd-pink "Stack Overflow") [{% fa twitter-square 3x fw %}](http://twitter.com/menonHari "Twitter") [{% fa linkedin-square 3x fw %}](http://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [{% fa flickr 3x fw %}](http://flickr.com/photos/me_haridas "Flickr") [{% fa google-plus-square 3x fw %}](https://plus.google.com/115681177381332236508/about "Google+")</div>
 
-[My GPG Key](/gpg/public-key.txt "If you need to send me a really secure email !")
+[My GPG Key](/gpg/public-key.asc "If you need to send me a really secure email !")
 
 [My Résumé](http://stackoverflow.com/story/hari "My 'Developer Story' on Stack Overflow Jobs!")
 

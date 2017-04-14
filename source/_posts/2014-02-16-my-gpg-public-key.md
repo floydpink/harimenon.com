@@ -14,7 +14,7 @@ Here is my GnuPG / PGP public key:
 
 Key Fingerprint: `F79E FDED 6BAC 4B7D C436 A838 9B5A 929A C7A3 F555`
 
-Either copy from below or download it from [here](/gpg/public-key.txt).
+Either copy from below or download it from [here](/gpg/public-key.asc).
 
 <!-- more -->
 
