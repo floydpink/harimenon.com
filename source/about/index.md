@@ -38,7 +38,7 @@ These are the few that I think are worthy of a mention here:
  - [Bhagavad Gita](http://floydpink.github.io/BhagavadGita) - Android, iOS, Apple iBooks and web versions of [Srimad Bhagavad Gita](http://en.wikipedia.org/wiki/Bhagavad_Gita) in [Malayalam](http://en.wikipedia.org/wiki/Malayalam).
  - [lzwCompress.js](http://floydpink.github.io/lzwCompress.js) - A compression utility spun off from one of the projects I worked for.
  - [Cached Image](https://github.com/floydpink/CachedImage) - A WPF control that wraps the native Image control to enable file-system based caching.
- - [Mantis CI](http://floydpink.github.io/Mantis-CI/) - Android & iOS applications (done in PhoneGap and ember.js) for Travis CI (not maintaining this anymore).
+ ~~- [Mantis CI](http://floydpink.github.io/Mantis-CI/) - Android & iOS applications (done in PhoneGap and ember.js) for Travis CI (not maintaining this anymore).~~
 
 Check out my GitHub profile for all the stuff that I fork and push to.
 
