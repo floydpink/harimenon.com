@@ -238,9 +238,9 @@
     
       <category term="malayalam" scheme="https://harimenon.com/tags/malayalam/"/>
     
-      <category term="Android" scheme="https://harimenon.com/tags/android/"/>
-    
       <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
+    
+      <category term="Android" scheme="https://harimenon.com/tags/android/"/>
     
       <category term="gita" scheme="https://harimenon.com/tags/gita/"/>
     
@@ -347,17 +347,17 @@
       <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
     
-      <category term="Mantis CI" scheme="https://harimenon.com/tags/mantis-ci/"/>
-    
       <category term="iOS" scheme="https://harimenon.com/tags/ios/"/>
-    
-      <category term="Android" scheme="https://harimenon.com/tags/android/"/>
-    
-      <category term="Travis CI" scheme="https://harimenon.com/tags/travis-ci/"/>
     
       <category term="PhoneGap" scheme="https://harimenon.com/tags/phonegap/"/>
     
       <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
+    
+      <category term="Mantis CI" scheme="https://harimenon.com/tags/mantis-ci/"/>
+    
+      <category term="Android" scheme="https://harimenon.com/tags/android/"/>
+    
+      <category term="Travis CI" scheme="https://harimenon.com/tags/travis-ci/"/>
     
       <category term="story" scheme="https://harimenon.com/tags/story/"/>
     
