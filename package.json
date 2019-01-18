@@ -8,7 +8,7 @@
   "dependencies": {
     "hexo": "^3.8.0",
     "hexo-auto-canonical": "^0.1.1",
-    "hexo-autoprefixer": "^1.0.0",
+    "hexo-autoprefixer": "^2.0.0",
     "hexo-clean-css": "^0.0.3",
     "hexo-deployer-git": "^1.0.0",
     "hexo-footnotes": "^1.0.2",
