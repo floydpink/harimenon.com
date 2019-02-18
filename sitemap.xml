@@ -359,7 +359,7 @@
   </url>
   
   <url>
-    <loc>https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/</loc>
+    <loc>https://harimenon.com/2017/01/02/happy-new-year/</loc>
     
     <lastmod>2017-03-24T02:27:31.000Z</lastmod>
     
@@ -373,13 +373,6 @@
   </url>
   
   <url>
-    <loc>https://harimenon.com/2017/01/02/happy-new-year/</loc>
-    
-    <lastmod>2017-03-24T02:27:31.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://harimenon.com/tags/index.html</loc>
     
     <lastmod>2017-03-24T02:27:31.000Z</lastmod>
@@ -387,14 +380,21 @@
   </url>
   
   <url>
-    <loc>https://harimenon.com/bloggerhome/index.html</loc>
+    <loc>https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/</loc>
+    
+    <lastmod>2017-03-24T02:27:31.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://harimenon.com/manifest.json</loc>
     
     <lastmod>2015-12-27T04:14:23.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://harimenon.com/manifest.json</loc>
+    <loc>https://harimenon.com/bloggerhome/index.html</loc>
     
     <lastmod>2015-12-27T04:14:23.000Z</lastmod>
     
