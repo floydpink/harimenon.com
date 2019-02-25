@@ -2141,9 +2141,9 @@ hexo-fs@^1.0.0:
     escape-string-regexp "^1.0.5"
     graceful-fs "^4.1.11"
 
-hexo-generator-amp@^3.0.18:
-  version "3.0.18"
-  resolved "https://registry.yarnpkg.com/hexo-generator-amp/-/hexo-generator-amp-3.0.18.tgz#693a53b9cfbe100dfb367d83c1366f5746237faa"
+hexo-generator-amp@^3.0.19:
+  version "3.0.19"
+  resolved "https://registry.yarnpkg.com/hexo-generator-amp/-/hexo-generator-amp-3.0.19.tgz#0a7f6f35d95f72297f097b44721dde3ecf91fb78"
   dependencies:
     amphtml-validator "^1.0.21"
     bluebird "^3.5.1"
@@ -3131,13 +3131,9 @@ lodash.templatesettings@^3.0.0:
     lodash._reinterpolate "^3.0.0"
     lodash.escape "^3.0.0"
 
-lodash@^4.0.0, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5, lodash@~4.17.10:
+lodash@^4.0.0, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.2.1, lodash@~4.17.10:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-
-lodash@^4.2.1:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
 lodash@~1.0.1:
   version "1.0.2"
