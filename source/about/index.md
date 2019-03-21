@@ -10,7 +10,7 @@ I am a polyglot developer and have been hacking at things for over fifteen years
 
 Here are the links to my profiles on some of the tech/social sites. Connect with me on any of these or send me an email to 'me@&lt;this-site's-domain&gt;'.
 
-<div class="social-icons">[{% fa github-square 3x fw %}](https://github.com/floydpink "GitHub") [{% fa stack-overflow 3x fw %}](http://stackoverflow.com/users/218882/floyd-pink "Stack Overflow") [{% fa twitter-square 3x fw %}](http://twitter.com/menonHari "Twitter") [{% fa linkedin-square 3x fw %}](http://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [{% fa flickr 3x fw %}](http://flickr.com/photos/me_haridas "Flickr") [{% fa google-plus-square 3x fw %}](https://plus.google.com/115681177381332236508/about "Google+")</div>
+<div class="social-icons">[{% fab github 3x fw %}](https://github.com/floydpink "GitHub") [{% fab twitter 3x fw %}](https://twitter.com/menonHari "Twitter") [{% fab linkedin 3x fw %}](https://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [{% fab keybase 3x fw %}](https://keybase.io/floydpink "Keybase") [{% fab stack-overflow 3x fw %}](https://stackoverflow.com/users/218882/floyd-pink "Stack Overflow")</div>
 
 [My GPG Key](/gpg/public-key.asc "If you need to send me a really secure email !")
 
