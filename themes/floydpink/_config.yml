@@ -2,7 +2,7 @@
 logo_text:
 menu:
   <i title="Home" class="fa fa-home fa-2x fa-fw"><span class="nav-text">Home</span></i>: /
-  <i title="About Me" class="fa fa-user-circle-o fa-2x fa-fw"><span class="nav-text">About Me</span></i>: about
+  <i title="About Me" class="fa fa-user-circle fa-2x fa-fw"><span class="nav-text">About Me</span></i>: about
   <i title="Archives" class="fa fa-archive fa-2x fa-fw"><span class="nav-text">Archives</span></i>: archives
   <i title="Categories" class="fa fa-folder-open fa-2x fa-fw"><span class="nav-text">Categories</span></i>: categories
   <i title="Tags" class="fa fa-tags fa-2x fa-fw"><span class="nav-text">Tags</span></i>: tags
