@@ -1,8 +1,8 @@
 language: node_js
 node_js:
-  - 7
+  - 11
 cache:
-  yarn: true
+  yarn: false
   directories:
     - node_modules
 os:
@@ -15,7 +15,7 @@ before_install:
 - date
 - npm install -g hexo
 install:
-- yarn install
+- npm install
 before_script:
 - git config --global user.name "Floyd Pink (via Travis-CI)"
 - git config --global user.email "imbleedingme@googlemail.com"
