@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://harimenon.com/"/>
-  <updated>2017-04-15T02:06:27.000Z</updated>
+  <updated>2019-04-06T17:53:47.000Z</updated>
   <id>https://harimenon.com/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Random sketch</title>
+    <link href="https://harimenon.com/2019/04/06/random-sketch/"/>
+    <id>https://harimenon.com/2019/04/06/random-sketch/</id>
+    <published>2019-04-06T21:11:12.000Z</published>
+    <updated>2019-04-06T17:53:47.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Discovered &lt;a href=&quot;https://www.youidraw.com/apps/painter/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;this cool app&lt;/a&gt; the other day, when trying t
+      
+    
+    </summary>
+    
+      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    
+    
+      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    
+      <category term="art" scheme="https://harimenon.com/tags/art/"/>
+    
+      <category term="random sketch" scheme="https://harimenon.com/tags/random-sketch/"/>
+    
+      <category term="web apps" scheme="https://harimenon.com/tags/web-apps/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Spring!</title>
     <link href="https://harimenon.com/2017/04/02/spring/"/>
     <id>https://harimenon.com/2017/04/02/spring/</id>
     <published>2017-04-02T04:00:23.000Z</published>
-    <updated>2017-04-15T02:06:27.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -52,7 +81,7 @@
     <link href="https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/"/>
     <id>https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/</id>
     <published>2017-03-05T01:30:00.000Z</published>
-    <updated>2017-03-25T22:12:13.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -80,7 +109,7 @@
     <link href="https://harimenon.com/2017/01/02/happy-new-year/"/>
     <id>https://harimenon.com/2017/01/02/happy-new-year/</id>
     <published>2017-01-03T00:16:00.000Z</published>
-    <updated>2017-03-24T02:27:31.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -107,7 +136,7 @@
     <link href="https://harimenon.com/2016/11/06/the-desert/"/>
     <id>https://harimenon.com/2016/11/06/the-desert/</id>
     <published>2016-11-06T13:41:00.000Z</published>
-    <updated>2017-03-25T04:31:23.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -138,7 +167,7 @@
     <link href="https://harimenon.com/2016/01/07/welcome-2016/"/>
     <id>https://harimenon.com/2016/01/07/welcome-2016/</id>
     <published>2016-01-08T01:18:00.000Z</published>
-    <updated>2017-03-25T04:27:50.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -167,7 +196,7 @@
     <link href="https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/</id>
     <published>2015-01-25T21:12:00.000Z</published>
-    <updated>2017-03-26T06:18:18.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -198,7 +227,7 @@
     <link href="https://harimenon.com/2014/12/30/resume/"/>
     <id>https://harimenon.com/2014/12/30/resume/</id>
     <published>2014-12-31T03:26:00.000Z</published>
-    <updated>2017-03-25T17:28:55.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -222,7 +251,7 @@
     <link href="https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/</id>
     <published>2014-09-10T18:12:00.000Z</published>
-    <updated>2017-03-26T06:10:13.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -253,7 +282,7 @@
     <link href="https://harimenon.com/2014/04/15/a-full-blossom/"/>
     <id>https://harimenon.com/2014/04/15/a-full-blossom/</id>
     <published>2014-04-15T04:05:00.000Z</published>
-    <updated>2017-03-26T06:44:33.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -282,7 +311,7 @@
     <link href="https://harimenon.com/2014/02/20/srimad-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/02/20/srimad-bhagavad-gita/</id>
     <published>2014-02-20T20:50:00.000Z</published>
-    <updated>2017-03-25T04:04:00.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -310,7 +339,7 @@
     <link href="https://harimenon.com/2014/02/16/my-gpg-public-key/"/>
     <id>https://harimenon.com/2014/02/16/my-gpg-public-key/</id>
     <published>2014-02-16T19:20:00.000Z</published>
-    <updated>2017-04-14T11:43:03.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -336,7 +365,7 @@
     <link href="https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/"/>
     <id>https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/</id>
     <published>2013-09-09T04:40:00.000Z</published>
-    <updated>2017-03-26T06:43:15.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -368,7 +397,7 @@
     <link href="https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/"/>
     <id>https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/</id>
     <published>2013-08-03T00:14:00.000Z</published>
-    <updated>2017-03-26T18:24:13.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -404,7 +433,7 @@
     <link href="https://harimenon.com/2013/05/29/a-proud-owner/"/>
     <id>https://harimenon.com/2013/05/29/a-proud-owner/</id>
     <published>2013-05-29T04:00:00.000Z</published>
-    <updated>2017-03-25T19:07:37.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -431,7 +460,7 @@
     <link href="https://harimenon.com/2013/04/26/trees-in-the-database/"/>
     <id>https://harimenon.com/2013/04/26/trees-in-the-database/</id>
     <published>2013-04-26T15:29:00.000Z</published>
-    <updated>2017-03-25T01:55:36.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -455,7 +484,7 @@
     <link href="https://harimenon.com/2013/04/22/a-stroke-of-insight/"/>
     <id>https://harimenon.com/2013/04/22/a-stroke-of-insight/</id>
     <published>2013-04-22T23:15:00.000Z</published>
-    <updated>2017-03-25T01:34:25.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -491,7 +520,7 @@
     <link href="https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/"/>
     <id>https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/</id>
     <published>2013-03-27T15:28:00.000Z</published>
-    <updated>2017-03-24T02:27:31.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -515,7 +544,7 @@
     <link href="https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/"/>
     <id>https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/</id>
     <published>2013-03-13T23:48:00.000Z</published>
-    <updated>2017-03-24T23:19:17.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -539,7 +568,7 @@
     <link href="https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/"/>
     <id>https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/</id>
     <published>2013-02-24T00:21:00.000Z</published>
-    <updated>2017-03-24T23:19:17.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -565,7 +594,7 @@
     <link href="https://harimenon.com/2013/02/14/start-webrick-here/"/>
     <id>https://harimenon.com/2013/02/14/start-webrick-here/</id>
     <published>2013-02-15T02:40:00.000Z</published>
-    <updated>2017-03-25T01:55:17.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -589,7 +618,7 @@
     <link href="https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/"/>
     <id>https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/</id>
     <published>2013-01-27T05:00:00.000Z</published>
-    <updated>2017-03-26T06:33:27.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -613,7 +642,7 @@
     <link href="https://harimenon.com/2013/01/22/using-keyboard-as-mouse/"/>
     <id>https://harimenon.com/2013/01/22/using-keyboard-as-mouse/</id>
     <published>2013-01-22T17:06:00.000Z</published>
-    <updated>2017-03-25T03:04:09.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -642,7 +671,7 @@
     <link href="https://harimenon.com/2013/01/18/migrated-this-blog-to-octopress/"/>
     <id>https://harimenon.com/2013/01/18/migrated-this-blog-to-octopress/</id>
     <published>2013-01-18T06:55:00.000Z</published>
-    <updated>2017-03-25T02:54:36.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -672,7 +701,7 @@
     <link href="https://harimenon.com/2013/01/16/note-to-self-could-be-useful-someday/"/>
     <id>https://harimenon.com/2013/01/16/note-to-self-could-be-useful-someday/</id>
     <published>2013-01-16T10:56:00.000Z</published>
-    <updated>2017-03-25T02:43:56.000Z</updated>
+    <updated>2019-04-06T17:53:47.000Z</updated>
     
     <summary type="html">
     
@@ -685,51 +714,6 @@
     
       <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Single-click Deployment of WPF Application to GitHub Pages</title>
-    <link href="https://harimenon.com/2013/01/15/single-click-deployment/"/>
-    <id>https://harimenon.com/2013/01/15/single-click-deployment/</id>
-    <published>2013-01-15T21:53:00.000Z</published>
-    <updated>2017-03-25T02:43:06.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;I have posted an entry on the flickrdownloadr.com blog, about how the single click deployment came about.&lt;/p&gt; &lt;p&gt;Check it out &lt;a href=&quot;ht
-      
-    
-    </summary>
-    
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
-    
-    
-      <category term=".NET" scheme="https://harimenon.com/tags/net/"/>
-    
-      <category term="flickr downloadr" scheme="https://harimenon.com/tags/flickr-downloadr/"/>
-    
-      <category term="WPF Application" scheme="https://harimenon.com/tags/wpf-application/"/>
-    
-      <category term="bash" scheme="https://harimenon.com/tags/bash/"/>
-    
-      <category term="github" scheme="https://harimenon.com/tags/github/"/>
-    
-      <category term="ClickOnce Deployment" scheme="https://harimenon.com/tags/clickonce-deployment/"/>
-    
-      <category term="NAnt" scheme="https://harimenon.com/tags/nant/"/>
-    
-      <category term="GitHub Pages" scheme="https://harimenon.com/tags/github-pages/"/>
-    
-      <category term="deployment" scheme="https://harimenon.com/tags/deployment/"/>
-    
-      <category term="git" scheme="https://harimenon.com/tags/git/"/>
-    
-      <category term="automation" scheme="https://harimenon.com/tags/automation/"/>
-    
-      <category term="MSBuild" scheme="https://harimenon.com/tags/msbuild/"/>
     
   </entry>
   
