@@ -4,7 +4,7 @@ layout: "about"
 
 ### Welcome and [Namaste](http://en.wikipedia.org/wiki/Namaste)!
 
-I am a polyglot developer and have been hacking at things for over fifteen years now at the <a href="#" title="2017-03-23 22:06" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
+I am a polyglot developer and have been hacking at things for over fifteen years now at the <a href="#" title="2019-04-06 13:06" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
 
 #### Contact Me
 
@@ -44,7 +44,7 @@ Check out my GitHub profile for all the stuff that I fork and push to.
 
 ###### Meta
 
-Recently I moved this blog from [Octopress](http://octopress.org/) into [Hexo](http://hexo.io/) and have been loving it.
+A while ago, I moved this blog from [Octopress](http://octopress.org/) into [Hexo](http://hexo.io/) and have been loving it.
 
 I was actively using Octopress for quite a while and this blog was [being built dynamically](https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/) every time [the source repository](https://github.com/floydpink/harimenon.com) is modified and pushed to. I'd soon hope to get the same done with Hexo.
 
@@ -52,4 +52,4 @@ The content of the old home page has been archived [here](/bloggerhome), and it'
 
 Have a blessed day!
 
-<small>Last Updated: 03/23/2017-22:06 EDT</small>
+<small>Last Updated: 04/06/2019-13:06 EDT</small>
