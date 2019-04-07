@@ -4,7 +4,7 @@ layout: "about"
 
 ### Welcome and [Namaste](http://en.wikipedia.org/wiki/Namaste)!
 
-I am a polyglot developer and have been hacking at things for over fifteen years now at the <a href="#" title="2019-04-06 13:06" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
+I am a polyglot developer and have been hacking at things for over sixteen years now at the <a href="#" title="2019-04-06 13:06" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
 
 #### Contact Me
 
