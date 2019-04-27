@@ -72,10 +72,6 @@ autoprefixer:
   browsers:
     - 'last 2 versions'
 
-clean_css:
-  exclude:
-    - '*.min.css'
-
 all_minifier: true
 
 # Deployment
