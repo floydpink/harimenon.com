@@ -10,7 +10,7 @@ I am a polyglot developer and have been hacking at things for over sixteen years
 
 Here are the links to my profiles on some of the tech/social sites. Connect with me on any of these or send me an email to 'me@&lt;this-site's-domain&gt;'.
 
-<div class="social-icons">[{% fab github 3x fw %}](https://github.com/floydpink "GitHub") [{% fab twitter 3x fw %}](https://twitter.com/menonHari "Twitter") [{% fab linkedin 3x fw %}](https://www.linkedin.com/in/haridaspachuveetil "LinkedIn") [{% fab keybase 3x fw %}](https://keybase.io/floydpink "Keybase") [{% fab stack-overflow 3x fw %}](https://stackoverflow.com/users/218882/floyd-pink "Stack Overflow")</div>
+<div class="social-icons"><a href="https://github.com/floydpink" title="GitHub" target="_blank" rel="noopener"><i class="fab fa-github fa-3x fa-fw"></i></a> <a href="https://twitter.com/menonHari" title="Twitter" target="_blank" rel="noopener"><i class="fab fa-twitter fa-3x fa-fw"></i></a> <a href="https://www.linkedin.com/in/haridaspachuveetil" title="LinkedIn" target="_blank" rel="noopener"><i class="fab fa-linkedin fa-3x fa-fw"></i></a> <a href="https://keybase.io/floydpink" title="Keybase" target="_blank" rel="noopener"><i class="fab fa-keybase fa-3x fa-fw"></i></a> <a href="https://stackoverflow.com/users/218882/floyd-pink" title="Stack Overflow" target="_blank" rel="noopener"><i class="fab fa-stack-overflow fa-3x fa-fw"></i></a></div>
 
 [My GPG Key](/gpg/public-key.asc "If you need to send me a really secure email !")
 
