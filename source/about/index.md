@@ -14,9 +14,6 @@ Here are the links to my profiles on some of the tech/social sites. Connect with
 
 [My GPG Key](/gpg/public-key.asc "If you need to send me a really secure email !")
 
-[My Résumé](http://stackoverflow.com/story/hari "My 'Developer Story' on Stack Overflow Jobs!")
-
-
 #### Technical Experience
 
 `C#` and `.NET` have been my bread and butter for quite some time now, with an increased focus into `Microsoft Azure`, `Windows Store Apps` `Xamarin` etc. for a little while in between. Until about a year or so ago, my day job used to be building on native mobile apps on all of `iOS`/`Android` and `Windows` platforms; but I am presently working on a pretty large, distributed web app that mostly satisfies the guidelines to be called a [twelve-factor app](https://12factor.net/).
