@@ -4,7 +4,7 @@ layout: "about"
 
 ### Welcome and [Namaste](http://en.wikipedia.org/wiki/Namaste)!
 
-I am a polyglot developer and have been hacking at things for over sixteen years now at the <a href="#" title="2019-04-06 13:06" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
+I am a polyglot developer and have been hacking at things for over eighteen years now at the <a href="#" title="2020-01-02 18:42" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
 
 #### Contact Me
 
@@ -16,32 +16,26 @@ Here are the links to my profiles on some of the tech/social sites. Connect with
 
 #### Technical Experience
 
-`C#` and `.NET` have been my bread and butter for quite some time now, with an increased focus into `Microsoft Azure`, `Windows Store Apps` `Xamarin` etc. for a little while in between. Until about a year or so ago, my day job used to be building on native mobile apps on all of `iOS`/`Android` and `Windows` platforms; but I am presently working on a pretty large, distributed web app that mostly satisfies the guidelines to be called a [twelve-factor app](https://12factor.net/).
+`Node.js`, `C#` and `.NET` have been my bread and butter for quite some time now, with an increased focus on cloud based applications (especially `AWS`), for quite some time now. Until a few months ago, my day job used to be working on a pretty large, distributed web app that mostly satisfies the guidelines to be called a [twelve-factor app](https://12factor.net/).
 
-Outside of my job, I have also been contributing to [a few Open Source projects](https://github.com/floydpink) - especially in `NodeJS`/`.NET`/`iOS`/`Android`/`Web` categories and would definitely love to keep doing more of this. Have done a fair bit of `Aurelia`, `Angular` & `Ember` and I used to write powerful web and/or desktop/mobile apps (with tools like `PhoneGap`/`Cordova`, `nw.js`/`electron` etc.). Off late though, I haven't been able to find as much time as I would like on these OSS projects.
-
-#### iOS and Android development
-
-`Swift`, the new language from Apple for iOS/Mac OS X development is definitely much more exciting and interesting than working with its kludgy predecessor - `Objective-C`. `JavaScript`, `C#`, `Java`, `Swift`, `Objective-C` are the languages that I work with and love them possibly in that order. `WebStorm` from JetBrains has been my favorite IDE for quite some time now and `Visual Studio` (along with `ReSharper` from JetBrains) is also one the best development tools I have used.
-
-`Android Studio` from Google (built on the `IntelliJ` platform from JetBrains) is what I use for the little bit of `Android` development I do. I have also been using quite a bit of the `AppCode` IDE (JetBrains again) which seems to so much better than Apple's free IDE - `Xcode`.
+Outside of my job, I was fortunate in contributing to [a few Open Source projects](https://github.com/floydpink) - especially in `NodeJS`/`.NET`/`iOS`/`Android`/`Web` etc. Have done a fair bit of `Aurelia`, `Angular` & `Ember` and I used to write web and/or desktop/mobile apps (with tools like `PhoneGap`/`Cordova`, `nw.js`/`electron` etc.). Off late though, I haven't been able to find as much time as I would like on these OSS projects.
 
 #### Some of my side projects
 
 These are the few that I think are worthy of a mention here:
 
- - [flickr downloadr](http://flickrdownloadr.com) - A flickr download manager for Windows, Mac OS X and Linux conceived from a personal need.
  - [kollavarsham](http://kollavarsham.org) - Open Source libraries for Kollavarsham a.k.a. [Malayalam Era](https://en.wikipedia.org/wiki/Malayalam_calendar) calendar.
  - [Bhagavad Gita](http://floydpink.github.io/BhagavadGita) - Android, iOS, Apple iBooks and web versions of [Srimad Bhagavad Gita](http://en.wikipedia.org/wiki/Bhagavad_Gita) in [Malayalam](http://en.wikipedia.org/wiki/Malayalam).
  - [lzwCompress.js](http://floydpink.github.io/lzwCompress.js) - A compression utility spun off from one of the projects I worked for.
  - [Cached Image](https://github.com/floydpink/CachedImage) - A WPF control that wraps the native Image control to enable file-system based caching.
- ~~- [Mantis CI](http://floydpink.github.io/Mantis-CI/) - Android & iOS applications (done in PhoneGap and ember.js) for Travis CI (not maintaining this anymore).~~
+ ~~- [flickr downloadr](http://flickrdownloadr.com) - A flickr download manager for Windows, Mac OS X and Linux conceived from a personal need.~~ (not maintaining this anymore).
+ ~~- [Mantis CI](http://floydpink.github.io/Mantis-CI/) - Android & iOS applications (done in PhoneGap and ember.js) for Travis CI~~ (not maintaining this anymore).
 
 Check out my GitHub profile for all the stuff that I fork and push to.
 
 ###### Meta
 
-A while ago, I moved this blog from [Octopress](http://octopress.org/) into [Hexo](http://hexo.io/) and have been loving it.
+Quite a while ago, I moved this blog from [Octopress](http://octopress.org/) into [Hexo](http://hexo.io/) and have been loving it.
 
 I was actively using Octopress for quite a while and this blog was [being built dynamically](https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/) every time [the source repository](https://github.com/floydpink/harimenon.com) is modified and pushed to. ~~I'd soon hope to get the same done with Hexo.~~ The Hexo version is also [now being built](https://github.com/floydpink/harimenon.com/blob/master/.travis.yml) dynamically on every push to GitHub.
 
