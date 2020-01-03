@@ -43,4 +43,4 @@ The content of the old home page has been archived [here](/bloggerhome), and it'
 
 Have a blessed day!
 
-<small>Last Updated: 04/06/2019-13:06 EDT</small>
+<small>Last Updated: 01/03/2020-13:26 EST</small>
