@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://harimenon.com/"/>
-  <updated>2020-04-22T13:17:33.000Z</updated>
+  <updated>2020-04-26T17:01:34.000Z</updated>
   <id>https://harimenon.com/</id>
   
   <author>
@@ -17,11 +17,49 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Standing Flower</title>
+    <link href="https://harimenon.com/2020/04/26/standing-flower/"/>
+    <id>https://harimenon.com/2020/04/26/standing-flower/</id>
+    <published>2020-04-26T20:46:00.000Z</published>
+    <updated>2020-04-26T17:01:34.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/images/standing-flower-maya-20200426.png&quot; width=&quot;600&quot; title=&quot;Standing Flower&quot;&gt;&lt;p&gt;A painting by 9yo using &lt;a href=&quot;https://www.you
+      
+    
+    </summary>
+    
+    
+      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    
+    
+      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    
+      <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
+    
+      <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
+    
+      <category term="art" scheme="https://harimenon.com/tags/art/"/>
+    
+      <category term="web apps" scheme="https://harimenon.com/tags/web-apps/"/>
+    
+      <category term="drawing" scheme="https://harimenon.com/tags/drawing/"/>
+    
+      <category term="social distancing" scheme="https://harimenon.com/tags/social-distancing/"/>
+    
+      <category term="covid-19" scheme="https://harimenon.com/tags/covid-19/"/>
+    
+  </entry>
+  
+  <entry>
     <title>DIY Smart-Garage with Raspberry Pi</title>
     <link href="https://harimenon.com/2019/04/27/diy-smart-garage-with-raspberry-pi/"/>
     <id>https://harimenon.com/2019/04/27/diy-smart-garage-with-raspberry-pi/</id>
     <published>2019-04-27T17:50:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -56,7 +94,7 @@
     <link href="https://harimenon.com/2019/04/06/random-sketch/"/>
     <id>https://harimenon.com/2019/04/06/random-sketch/</id>
     <published>2019-04-06T21:11:12.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -86,7 +124,7 @@
     <link href="https://harimenon.com/2017/04/02/spring/"/>
     <id>https://harimenon.com/2017/04/02/spring/</id>
     <published>2017-04-02T04:00:23.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -118,7 +156,7 @@
     <link href="https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/"/>
     <id>https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/</id>
     <published>2017-03-05T01:30:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -147,7 +185,7 @@
     <link href="https://harimenon.com/2017/01/02/happy-new-year/"/>
     <id>https://harimenon.com/2017/01/02/happy-new-year/</id>
     <published>2017-01-03T00:16:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -175,7 +213,7 @@
     <link href="https://harimenon.com/2016/11/06/the-desert/"/>
     <id>https://harimenon.com/2016/11/06/the-desert/</id>
     <published>2016-11-06T13:41:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -207,7 +245,7 @@
     <link href="https://harimenon.com/2016/01/07/welcome-2016/"/>
     <id>https://harimenon.com/2016/01/07/welcome-2016/</id>
     <published>2016-01-08T01:18:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -237,7 +275,7 @@
     <link href="https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/</id>
     <published>2015-01-25T21:12:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -269,11 +307,11 @@
     <link href="https://harimenon.com/2014/12/30/resume/"/>
     <id>https://harimenon.com/2014/12/30/resume/</id>
     <published>2014-12-31T03:26:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;#Haridas Pachuveetil&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fairfax, VA, United States&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;mailto:&amp;#104;&amp;#97;&amp;#x72;&amp;#x69;&amp;#x64;&amp;#97;&amp;#115;&amp;#x2e;&amp;#x70;&amp;#97;&amp;#x63;&amp;#x68;&amp;#117;&amp;#118;&amp;#101;&amp;#x65;&amp;#116;&amp;#x69;&amp;#x6c;&amp;#x40;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&quot;&gt;&amp;#104;&amp;#97;&amp;#x72;&amp;#x69;&amp;#x64;&amp;#97;&amp;#115;&amp;#x2e;&amp;#x70;&amp;#97;&amp;#x63;&amp;#x68;&amp;#117;&amp;#118;&amp;#101;&amp;#x65;&amp;#116;&amp;#x69;&amp;#x6c;&amp;#x40;&amp;#103;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://harimenon.com/&quot;&gt;https://harimenon.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;I love Stack Overflow, probably because I am passionate about technology. Photography, music, spirituality are my other passions and all of these together makes me feel I am alive.&lt;/p&gt;&lt;p&gt;I try to write a little on my blog about many different things - check it out &lt;a href=&quot;https://harimenon.com/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;You could also read a little more about me at my &lt;a href=&quot;http://about.me/hpachuveetil&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;about.me&lt;/a&gt; page.&lt;/p&gt;&lt;p&gt;Stay beautiful !&lt;/p&gt;&lt;hr&gt;&lt;p&gt;I am currently employed and not actively looking for a switch, but feel free to let me know if you have an offer that you think I cannot resist!&lt;/p&gt;&lt;hr&gt;&lt;h2 id=&quot;Technical-Skills&quot;&gt;&lt;a href=&quot;#Technical-Skills&quot; class=&quot;headerlink&quot; title=&quot;Technical Skills&quot;&gt;&lt;/a&gt;Technical Skills&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Like:&lt;/strong&gt; git, web-development, javascript, jquery, ember.js, .net, c#, android, java, phonegap, tdd, open-source, linux, stack-overflow&lt;/p&gt;
+      &lt;p&gt;#Haridas Pachuveetil&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fairfax, VA, United States&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;mailto:&amp;#104;&amp;#x61;&amp;#114;&amp;#x69;&amp;#x64;&amp;#97;&amp;#x73;&amp;#x2e;&amp;#112;&amp;#x61;&amp;#x63;&amp;#x68;&amp;#117;&amp;#x76;&amp;#x65;&amp;#101;&amp;#116;&amp;#105;&amp;#x6c;&amp;#64;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#104;&amp;#x61;&amp;#114;&amp;#x69;&amp;#x64;&amp;#97;&amp;#x73;&amp;#x2e;&amp;#112;&amp;#x61;&amp;#x63;&amp;#x68;&amp;#117;&amp;#x76;&amp;#x65;&amp;#101;&amp;#116;&amp;#105;&amp;#x6c;&amp;#64;&amp;#103;&amp;#x6d;&amp;#97;&amp;#x69;&amp;#108;&amp;#46;&amp;#99;&amp;#111;&amp;#x6d;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://harimenon.com/&quot;&gt;https://harimenon.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;I love Stack Overflow, probably because I am passionate about technology. Photography, music, spirituality are my other passions and all of these together makes me feel I am alive.&lt;/p&gt;&lt;p&gt;I try to write a little on my blog about many different things - check it out &lt;a href=&quot;https://harimenon.com/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;You could also read a little more about me at my &lt;a href=&quot;http://about.me/hpachuveetil&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;about.me&lt;/a&gt; page.&lt;/p&gt;&lt;p&gt;Stay beautiful !&lt;/p&gt;&lt;hr&gt;&lt;p&gt;I am currently employed and not actively looking for a switch, but feel free to let me know if you have an offer that you think I cannot resist!&lt;/p&gt;&lt;hr&gt;&lt;h2 id=&quot;Technical-Skills&quot;&gt;&lt;a href=&quot;#Technical-Skills&quot; class=&quot;headerlink&quot; title=&quot;Technical Skills&quot;&gt;&lt;/a&gt;Technical Skills&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Like:&lt;/strong&gt; git, web-development, javascript, jquery, ember.js, .net, c#, android, java, phonegap, tdd, open-source, linux, stack-overflow&lt;/p&gt;
     
     </summary>
     
@@ -294,7 +332,7 @@
     <link href="https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/</id>
     <published>2014-09-10T18:12:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -326,7 +364,7 @@
     <link href="https://harimenon.com/2014/04/15/a-full-blossom/"/>
     <id>https://harimenon.com/2014/04/15/a-full-blossom/</id>
     <published>2014-04-15T04:05:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -356,7 +394,7 @@
     <link href="https://harimenon.com/2014/02/20/srimad-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/02/20/srimad-bhagavad-gita/</id>
     <published>2014-02-20T20:50:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -385,7 +423,7 @@
     <link href="https://harimenon.com/2014/02/16/my-gpg-public-key/"/>
     <id>https://harimenon.com/2014/02/16/my-gpg-public-key/</id>
     <published>2014-02-16T19:20:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -412,7 +450,7 @@
     <link href="https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/"/>
     <id>https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/</id>
     <published>2013-09-09T04:40:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -445,7 +483,7 @@
     <link href="https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/"/>
     <id>https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/</id>
     <published>2013-08-03T00:14:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -482,7 +520,7 @@
     <link href="https://harimenon.com/2013/05/29/a-proud-owner/"/>
     <id>https://harimenon.com/2013/05/29/a-proud-owner/</id>
     <published>2013-05-29T04:00:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -510,7 +548,7 @@
     <link href="https://harimenon.com/2013/04/26/trees-in-the-database/"/>
     <id>https://harimenon.com/2013/04/26/trees-in-the-database/</id>
     <published>2013-04-26T15:29:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -535,7 +573,7 @@
     <link href="https://harimenon.com/2013/04/22/a-stroke-of-insight/"/>
     <id>https://harimenon.com/2013/04/22/a-stroke-of-insight/</id>
     <published>2013-04-22T23:15:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -572,7 +610,7 @@
     <link href="https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/"/>
     <id>https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/</id>
     <published>2013-03-27T15:28:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -597,7 +635,7 @@
     <link href="https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/"/>
     <id>https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/</id>
     <published>2013-03-13T23:48:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -622,7 +660,7 @@
     <link href="https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/"/>
     <id>https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/</id>
     <published>2013-02-24T00:21:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -649,7 +687,7 @@
     <link href="https://harimenon.com/2013/02/14/start-webrick-here/"/>
     <id>https://harimenon.com/2013/02/14/start-webrick-here/</id>
     <published>2013-02-15T02:40:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -674,7 +712,7 @@
     <link href="https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/"/>
     <id>https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/</id>
     <published>2013-01-27T05:00:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -699,7 +737,7 @@
     <link href="https://harimenon.com/2013/01/22/using-keyboard-as-mouse/"/>
     <id>https://harimenon.com/2013/01/22/using-keyboard-as-mouse/</id>
     <published>2013-01-22T17:06:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
+    <updated>2020-04-26T17:01:34.000Z</updated>
     
     <summary type="html">
     
@@ -721,37 +759,6 @@
       <category term="mouse" scheme="https://harimenon.com/tags/mouse/"/>
     
       <category term="obscure" scheme="https://harimenon.com/tags/obscure/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Migrated this blog to Octopress</title>
-    <link href="https://harimenon.com/2013/01/18/migrated-this-blog-to-octopress/"/>
-    <id>https://harimenon.com/2013/01/18/migrated-this-blog-to-octopress/</id>
-    <published>2013-01-18T06:55:00.000Z</published>
-    <updated>2020-04-22T13:17:33.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;Update (03/24/2017)&lt;/strong&gt;: The blog has been migrated yet another time - this time from Octopress into &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt; and so, some of the links below will not work anymore.&lt;/p&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;small&gt;&lt;strong&gt;Update (01/22/2013)&lt;/strong&gt;: Perhaps I blogged too soon! I&#39;m loving the Octopress so much, that the whole site has now been updated to be built with Octopress. So some old blogs (&lt;a href=&quot;http://en.blog.harimenon.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;english&lt;/a&gt; &amp; &lt;a href=&quot;http://technology.harimenon.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;technical&lt;/a&gt;) get redirected to the corresponding categories on the new unified blog, while some others (&lt;a href=&quot;http://ml.blog.harimenon.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;malayalam&lt;/a&gt; are still on blogger and are not linked from the site for the time being.&lt;/small&gt;&lt;/blockquote&gt;&lt;p&gt;This blog had been on blogger since its inception back in 2009, though it really has only a very few posts in those almost-four years. The newly found love for the &lt;a href=&quot;http://octopress.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Octopress&lt;/a&gt; blogging platform, thanks to the experience setting up the &lt;a href=&quot;http://flickrdownloadr.com/blogs&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;flickrdownloadr blog&lt;/a&gt; recently, I decided to bite the bullet and move my technical blog over.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
-    
-    
-      <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
-    
-      <category term="blog migration" scheme="https://harimenon.com/tags/blog-migration/"/>
-    
-      <category term="octopress" scheme="https://harimenon.com/tags/octopress/"/>
-    
-      <category term="blogger" scheme="https://harimenon.com/tags/blogger/"/>
-    
-      <category term="blogger to octopress" scheme="https://harimenon.com/tags/blogger-to-octopress/"/>
-    
-      <category term="sinatra" scheme="https://harimenon.com/tags/sinatra/"/>
     
   </entry>
   
