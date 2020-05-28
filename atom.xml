@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://harimenon.com/"/>
-  <updated>2020-05-14T15:35:22.000Z</updated>
+  <updated>2020-05-28T03:16:25.000Z</updated>
   <id>https://harimenon.com/</id>
   
   <author>
@@ -17,11 +17,54 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Generate Python, Java, and .NET software libraries from a TypeScript source</title>
+    <link href="https://harimenon.com/2020/05/28/generate-python-java-dotnet-software-libraries-from-typescript-source/"/>
+    <id>https://harimenon.com/2020/05/28/generate-python-java-dotnet-software-libraries-from-typescript-source/</id>
+    <published>2020-05-28T06:44:20.000Z</published>
+    <updated>2020-05-28T03:16:25.000Z</updated>
+    
+    <summary type="html">
+    
+      Cross-posted from the AWS Blog post I wrote on the jsii compiler.
+    
+    </summary>
+    
+    
+      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    
+    
+      <category term="AWS Blog" scheme="https://harimenon.com/tags/aws-blog/"/>
+    
+      <category term="Cross-posted" scheme="https://harimenon.com/tags/cross-posted/"/>
+    
+      <category term="Open Source" scheme="https://harimenon.com/tags/open-source/"/>
+    
+      <category term="Developer Tools" scheme="https://harimenon.com/tags/developer-tools/"/>
+    
+      <category term="AWS CDK" scheme="https://harimenon.com/tags/aws-cdk/"/>
+    
+      <category term="jsii" scheme="https://harimenon.com/tags/jsii/"/>
+    
+      <category term="TypeScript" scheme="https://harimenon.com/tags/typescript/"/>
+    
+      <category term="Python" scheme="https://harimenon.com/tags/python/"/>
+    
+      <category term="Java" scheme="https://harimenon.com/tags/java/"/>
+    
+      <category term="Dotnet" scheme="https://harimenon.com/tags/dotnet/"/>
+    
+      <category term="Polyglot" scheme="https://harimenon.com/tags/polyglot/"/>
+    
+      <category term="Micro-services" scheme="https://harimenon.com/tags/micro-services/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Wildfire!</title>
     <link href="https://harimenon.com/2020/04/27/wildfire/"/>
     <id>https://harimenon.com/2020/04/27/wildfire/</id>
     <published>2020-04-28T01:48:50.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -55,7 +98,7 @@
     <link href="https://harimenon.com/2020/04/26/standing-flower/"/>
     <id>https://harimenon.com/2020/04/26/standing-flower/</id>
     <published>2020-04-26T20:46:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -93,7 +136,7 @@
     <link href="https://harimenon.com/2019/04/27/diy-smart-garage-with-raspberry-pi/"/>
     <id>https://harimenon.com/2019/04/27/diy-smart-garage-with-raspberry-pi/</id>
     <published>2019-04-27T17:50:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -128,7 +171,7 @@
     <link href="https://harimenon.com/2019/04/06/random-sketch/"/>
     <id>https://harimenon.com/2019/04/06/random-sketch/</id>
     <published>2019-04-06T21:11:12.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -158,7 +201,7 @@
     <link href="https://harimenon.com/2017/04/02/spring/"/>
     <id>https://harimenon.com/2017/04/02/spring/</id>
     <published>2017-04-02T04:00:23.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -190,7 +233,7 @@
     <link href="https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/"/>
     <id>https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/</id>
     <published>2017-03-05T01:30:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -219,7 +262,7 @@
     <link href="https://harimenon.com/2017/01/02/happy-new-year/"/>
     <id>https://harimenon.com/2017/01/02/happy-new-year/</id>
     <published>2017-01-03T00:16:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -247,7 +290,7 @@
     <link href="https://harimenon.com/2016/11/06/the-desert/"/>
     <id>https://harimenon.com/2016/11/06/the-desert/</id>
     <published>2016-11-06T13:41:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -279,7 +322,7 @@
     <link href="https://harimenon.com/2016/01/07/welcome-2016/"/>
     <id>https://harimenon.com/2016/01/07/welcome-2016/</id>
     <published>2016-01-08T01:18:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -309,7 +352,7 @@
     <link href="https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/</id>
     <published>2015-01-25T21:12:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -341,11 +384,11 @@
     <link href="https://harimenon.com/2014/12/30/resume/"/>
     <id>https://harimenon.com/2014/12/30/resume/</id>
     <published>2014-12-31T03:26:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;#Haridas Pachuveetil&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fairfax, VA, United States&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;mailto:&amp;#104;&amp;#x61;&amp;#x72;&amp;#105;&amp;#x64;&amp;#97;&amp;#115;&amp;#x2e;&amp;#x70;&amp;#97;&amp;#x63;&amp;#x68;&amp;#117;&amp;#118;&amp;#101;&amp;#101;&amp;#116;&amp;#x69;&amp;#x6c;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#104;&amp;#x61;&amp;#x72;&amp;#105;&amp;#x64;&amp;#97;&amp;#115;&amp;#x2e;&amp;#x70;&amp;#97;&amp;#x63;&amp;#x68;&amp;#117;&amp;#118;&amp;#101;&amp;#101;&amp;#116;&amp;#x69;&amp;#x6c;&amp;#64;&amp;#x67;&amp;#109;&amp;#x61;&amp;#x69;&amp;#108;&amp;#x2e;&amp;#99;&amp;#x6f;&amp;#109;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://harimenon.com/&quot;&gt;https://harimenon.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;I love Stack Overflow, probably because I am passionate about technology. Photography, music, spirituality are my other passions and all of these together makes me feel I am alive.&lt;/p&gt;&lt;p&gt;I try to write a little on my blog about many different things - check it out &lt;a href=&quot;https://harimenon.com/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;You could also read a little more about me at my &lt;a href=&quot;http://about.me/hpachuveetil&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;about.me&lt;/a&gt; page.&lt;/p&gt;&lt;p&gt;Stay beautiful !&lt;/p&gt;&lt;hr&gt;&lt;p&gt;I am currently employed and not actively looking for a switch, but feel free to let me know if you have an offer that you think I cannot resist!&lt;/p&gt;&lt;hr&gt;&lt;h2 id=&quot;Technical-Skills&quot;&gt;&lt;a href=&quot;#Technical-Skills&quot; class=&quot;headerlink&quot; title=&quot;Technical Skills&quot;&gt;&lt;/a&gt;Technical Skills&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Like:&lt;/strong&gt; git, web-development, javascript, jquery, ember.js, .net, c#, android, java, phonegap, tdd, open-source, linux, stack-overflow&lt;/p&gt;
+      &lt;p&gt;#Haridas Pachuveetil&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Fairfax, VA, United States&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;mailto:&amp;#104;&amp;#x61;&amp;#114;&amp;#105;&amp;#100;&amp;#x61;&amp;#x73;&amp;#46;&amp;#x70;&amp;#97;&amp;#x63;&amp;#104;&amp;#x75;&amp;#118;&amp;#x65;&amp;#101;&amp;#116;&amp;#105;&amp;#108;&amp;#x40;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&quot;&gt;&amp;#104;&amp;#x61;&amp;#114;&amp;#105;&amp;#100;&amp;#x61;&amp;#x73;&amp;#46;&amp;#x70;&amp;#97;&amp;#x63;&amp;#104;&amp;#x75;&amp;#118;&amp;#x65;&amp;#101;&amp;#116;&amp;#105;&amp;#108;&amp;#x40;&amp;#103;&amp;#109;&amp;#97;&amp;#105;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#x6f;&amp;#109;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://harimenon.com/&quot;&gt;https://harimenon.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;I love Stack Overflow, probably because I am passionate about technology. Photography, music, spirituality are my other passions and all of these together makes me feel I am alive.&lt;/p&gt;&lt;p&gt;I try to write a little on my blog about many different things - check it out &lt;a href=&quot;https://harimenon.com/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;You could also read a little more about me at my &lt;a href=&quot;http://about.me/hpachuveetil&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;about.me&lt;/a&gt; page.&lt;/p&gt;&lt;p&gt;Stay beautiful !&lt;/p&gt;&lt;hr&gt;&lt;p&gt;I am currently employed and not actively looking for a switch, but feel free to let me know if you have an offer that you think I cannot resist!&lt;/p&gt;&lt;hr&gt;&lt;h2 id=&quot;Technical-Skills&quot;&gt;&lt;a href=&quot;#Technical-Skills&quot; class=&quot;headerlink&quot; title=&quot;Technical Skills&quot;&gt;&lt;/a&gt;Technical Skills&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Like:&lt;/strong&gt; git, web-development, javascript, jquery, ember.js, .net, c#, android, java, phonegap, tdd, open-source, linux, stack-overflow&lt;/p&gt;
     
     </summary>
     
@@ -366,7 +409,7 @@
     <link href="https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/</id>
     <published>2014-09-10T18:12:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -398,7 +441,7 @@
     <link href="https://harimenon.com/2014/04/15/a-full-blossom/"/>
     <id>https://harimenon.com/2014/04/15/a-full-blossom/</id>
     <published>2014-04-15T04:05:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -428,7 +471,7 @@
     <link href="https://harimenon.com/2014/02/20/srimad-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/02/20/srimad-bhagavad-gita/</id>
     <published>2014-02-20T20:50:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -457,7 +500,7 @@
     <link href="https://harimenon.com/2014/02/16/my-gpg-public-key/"/>
     <id>https://harimenon.com/2014/02/16/my-gpg-public-key/</id>
     <published>2014-02-16T19:20:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -484,7 +527,7 @@
     <link href="https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/"/>
     <id>https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/</id>
     <published>2013-09-09T04:40:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -517,7 +560,7 @@
     <link href="https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/"/>
     <id>https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/</id>
     <published>2013-08-03T00:14:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -554,7 +597,7 @@
     <link href="https://harimenon.com/2013/05/29/a-proud-owner/"/>
     <id>https://harimenon.com/2013/05/29/a-proud-owner/</id>
     <published>2013-05-29T04:00:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -582,7 +625,7 @@
     <link href="https://harimenon.com/2013/04/26/trees-in-the-database/"/>
     <id>https://harimenon.com/2013/04/26/trees-in-the-database/</id>
     <published>2013-04-26T15:29:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -607,7 +650,7 @@
     <link href="https://harimenon.com/2013/04/22/a-stroke-of-insight/"/>
     <id>https://harimenon.com/2013/04/22/a-stroke-of-insight/</id>
     <published>2013-04-22T23:15:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -644,7 +687,7 @@
     <link href="https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/"/>
     <id>https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/</id>
     <published>2013-03-27T15:28:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -669,7 +712,7 @@
     <link href="https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/"/>
     <id>https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/</id>
     <published>2013-03-13T23:48:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -694,7 +737,7 @@
     <link href="https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/"/>
     <id>https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/</id>
     <published>2013-02-24T00:21:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -721,7 +764,7 @@
     <link href="https://harimenon.com/2013/02/14/start-webrick-here/"/>
     <id>https://harimenon.com/2013/02/14/start-webrick-here/</id>
     <published>2013-02-15T02:40:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
+    <updated>2020-05-28T03:16:25.000Z</updated>
     
     <summary type="html">
     
@@ -738,31 +781,6 @@
       <category term="webrick" scheme="https://harimenon.com/tags/webrick/"/>
     
       <category term="webserver" scheme="https://harimenon.com/tags/webserver/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Auto-deploying to my Octopress blog with Travis-CI</title>
-    <link href="https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/"/>
-    <id>https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/</id>
-    <published>2013-01-27T05:00:00.000Z</published>
-    <updated>2020-05-14T15:35:22.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;A couple weeks earlier, &lt;a href=&quot;http://darvin.github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Sergey Klimov&lt;/a&gt; (who is &lt;a href=&quot;https://github.com/darvin&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@darvin&lt;/a&gt; at GitHub) opened the &lt;a href=&quot;https://github.com/imathis/octopress/issues/940&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;issue #940&lt;/a&gt; at &lt;a href=&quot;https://github.com/imathis/octopress&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;imathis/octopress&lt;/a&gt;, which is more a feature suggestion than an issue.&lt;/p&gt;&lt;p&gt;Within that, he has linked to &lt;a href=&quot;http://darvin.github.io/blog/2013/01/13/Prose_Octopress_TravisIO/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;Prose.io + Octopress + Travis-CI + GitHub Pages = ♥&quot;&gt;his detailed blog post&lt;/a&gt; suggesting how the awesome &lt;a href=&quot;https://travis-ci.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Travis-CI&lt;/a&gt; could be configured to do the &lt;code&gt;rake generate&lt;/code&gt; and &lt;code&gt;rake deploy&lt;/code&gt; for you, when you add/update new posts to an &lt;a href=&quot;http://octopress.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;octopress&lt;/a&gt; blog, even from browser-based editors like either the built-in GitHub editor, or a third-party tool like the &lt;a href=&quot;http://prose.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;prose.io&lt;/a&gt; editor (which is really awesome too, BTW).&lt;/p&gt;&lt;p&gt;For the uninitiated, Travis-CI is a really nice, open source, free and hosted continuous integration service that could build and run the unit tests for you, on every commit to a GitHub repository. It supports projects in a multitude of languages, as seen &lt;a href=&quot;http://about.travis-ci.org/docs/user/getting-started/#Travis-CI-Overview&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;here&lt;/a&gt;. The service allows you to configure steps that would be run &lt;a href=&quot;http://about.travis-ci.org/docs/user/build-configuration/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;before, after and during the build and test process&lt;/a&gt;, with just one &lt;a href=&quot;http://www.yaml.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; title=&quot;YAML Ain&amp;#39;t Markup Language&quot;&gt;YAML&lt;/a&gt; file (named &lt;code&gt;.travis.yml&lt;/code&gt;) in the root of your repo. Apart from running the many unit tests in the project and letting you know how your latest check-in affected the health of the project, the Travis-CI service could also do custom build tasks like a post-build deployment. And this is what Sergey has tappped into, for use with the deployment of an Octopress blog.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
-    
-    
-      <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
-    
-      <category term="Octopress" scheme="https://harimenon.com/tags/octopress/"/>
-    
-      <category term="Travis-CI" scheme="https://harimenon.com/tags/travis-ci/"/>
     
   </entry>
   
