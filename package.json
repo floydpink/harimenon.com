@@ -22,7 +22,7 @@
     "hexo-renderer-marked": "hexojs/hexo-renderer-marked",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
-    "hexo-tag-fontawesome": "github:akarzim/hexo-tag-fontawesome#5efebb5ab"
+    "hexo-tag-fontawesome": "^1.1.0"
   },
   "browserslist": [
     "defaults"
