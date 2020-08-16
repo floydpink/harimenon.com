@@ -4,7 +4,7 @@ layout: "about"
 
 ### Welcome and [Namaste](http://en.wikipedia.org/wiki/Namaste)!
 
-I am a polyglot developer and have been hacking at things for over eighteen years now at the <a href="#" title="2020-01-02 18:42" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
+I am a polyglot developer and have been hacking on software for over nineteen years now at the <a href="#" title="2020-08-16 09:29" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
 
 #### Contact Me
 
@@ -31,7 +31,7 @@ These are the few that I think are worthy of a mention here:
  ~~- [flickr downloadr](http://flickrdownloadr.com) - A flickr download manager for Windows, Mac OS X and Linux conceived from a personal need.~~ (not maintaining this anymore).
  ~~- [Mantis CI](http://floydpink.github.io/Mantis-CI/) - Android & iOS applications (done in PhoneGap and ember.js) for Travis CI~~ (not maintaining this anymore).
 
-Check out my GitHub profile for all the stuff that I fork and push to.
+Check out my GitHub profile for all the bits I contribute to.
 
 ###### Meta
 
@@ -41,6 +41,6 @@ I was actively using Octopress for quite a while and this blog was [being built 
 
 The content of the old home page has been archived [here](/bloggerhome), and it's preserved in its exact form [at blogger](http://harimenonhome.blogspot.com)! You could also see the history of this page [on GitHub](https://github.com/floydpink/harimenon.com/commits/master/source/index.markdown)
 
-Have a blessed day!
+Have a wonderful day!
 
-<small>Last Updated: 01/03/2020-13:26 EST</small>
+<small>Last Updated: 08/16/2020-09:31 EST</small>
