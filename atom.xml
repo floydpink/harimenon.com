@@ -3,10 +3,10 @@
   <title>Hari Menon</title>
   
   <subtitle>Namaste. Welcome to my personal space on the world wide web!</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://harimenon.com/atom.xml" rel="self"/>
   
   <link href="https://harimenon.com/"/>
-  <updated>2020-08-16T13:18:46.000Z</updated>
+  <updated>2020-08-16T13:59:24.000Z</updated>
   <id>https://harimenon.com/</id>
   
   <author>
@@ -21,41 +21,39 @@
     <link href="https://harimenon.com/2020/05/28/generate-python-java-dotnet-software-libraries-from-typescript-source/"/>
     <id>https://harimenon.com/2020/05/28/generate-python-java-dotnet-software-libraries-from-typescript-source/</id>
     <published>2020-05-28T06:44:20.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      Cross-posted from the AWS Blog post I wrote on the jsii compiler.
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <summary type="html">Cross-posted from the AWS Blog post I wrote on the jsii compiler.</summary>
     
     
-      <category term="AWS Blog" scheme="https://harimenon.com/tags/aws-blog/"/>
     
-      <category term="Cross-posted" scheme="https://harimenon.com/tags/cross-posted/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
-      <category term="Open Source" scheme="https://harimenon.com/tags/open-source/"/>
     
-      <category term="Developer Tools" scheme="https://harimenon.com/tags/developer-tools/"/>
+    <category term="AWS Blog" scheme="https://harimenon.com/tags/aws-blog/"/>
     
-      <category term="AWS CDK" scheme="https://harimenon.com/tags/aws-cdk/"/>
+    <category term="Cross-posted" scheme="https://harimenon.com/tags/cross-posted/"/>
     
-      <category term="jsii" scheme="https://harimenon.com/tags/jsii/"/>
+    <category term="Open Source" scheme="https://harimenon.com/tags/open-source/"/>
     
-      <category term="TypeScript" scheme="https://harimenon.com/tags/typescript/"/>
+    <category term="Developer Tools" scheme="https://harimenon.com/tags/developer-tools/"/>
     
-      <category term="Python" scheme="https://harimenon.com/tags/python/"/>
+    <category term="AWS CDK" scheme="https://harimenon.com/tags/aws-cdk/"/>
     
-      <category term="Java" scheme="https://harimenon.com/tags/java/"/>
+    <category term="jsii" scheme="https://harimenon.com/tags/jsii/"/>
     
-      <category term="Dotnet" scheme="https://harimenon.com/tags/dotnet/"/>
+    <category term="TypeScript" scheme="https://harimenon.com/tags/typescript/"/>
     
-      <category term="Polyglot" scheme="https://harimenon.com/tags/polyglot/"/>
+    <category term="Python" scheme="https://harimenon.com/tags/python/"/>
     
-      <category term="Micro-services" scheme="https://harimenon.com/tags/micro-services/"/>
+    <category term="Java" scheme="https://harimenon.com/tags/java/"/>
+    
+    <category term="Dotnet" scheme="https://harimenon.com/tags/dotnet/"/>
+    
+    <category term="Polyglot" scheme="https://harimenon.com/tags/polyglot/"/>
+    
+    <category term="Micro-services" scheme="https://harimenon.com/tags/micro-services/"/>
     
   </entry>
   
@@ -64,32 +62,30 @@
     <link href="https://harimenon.com/2020/04/27/wildfire/"/>
     <id>https://harimenon.com/2020/04/27/wildfire/</id>
     <published>2020-04-28T01:48:50.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Fire all around you&lt;br&gt;Don’t go into fire&lt;br&gt;The firefighter comes. It is true&lt;br&gt;It is a wildfire!&lt;br&gt;The police comes and says “Stay in
+    <summary type="html">&lt;p&gt;Fire all around you&lt;br&gt;Don’t go into fire&lt;br&gt;The firefighter comes. It is true&lt;br&gt;It is a wildfire!&lt;br&gt;The police comes and says “Stay in</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="poem" scheme="https://harimenon.com/tags/poem/"/>
+    <category term="poem" scheme="https://harimenon.com/tags/poem/"/>
     
-      <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
+    <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
     
-      <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
+    <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
     
-      <category term="australian wildfires" scheme="https://harimenon.com/tags/australian-wildfires/"/>
+    <category term="australian wildfires" scheme="https://harimenon.com/tags/australian-wildfires/"/>
     
   </entry>
   
@@ -98,38 +94,36 @@
     <link href="https://harimenon.com/2020/04/26/standing-flower/"/>
     <id>https://harimenon.com/2020/04/26/standing-flower/</id>
     <published>2020-04-26T20:46:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;img src=&quot;/images/standing-flower-maya-20200426.png&quot; class=&quot;&quot; width=&quot;600&quot; title=&quot;Standing Flower&quot;&gt;
+    <summary type="html">&lt;img src=&quot;/images/standing-flower-maya-20200426.png&quot; class=&quot;&quot; width=&quot;600&quot; title=&quot;Standing Flower&quot;&gt;
 
-&lt;p&gt;A painting by my 9yo using &lt;a href=&quot;h
+&lt;p&gt;A painting by my 9yo using &lt;a href=&quot;h</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
+    <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
     
-      <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
+    <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
     
-      <category term="art" scheme="https://harimenon.com/tags/art/"/>
+    <category term="art" scheme="https://harimenon.com/tags/art/"/>
     
-      <category term="web apps" scheme="https://harimenon.com/tags/web-apps/"/>
+    <category term="web apps" scheme="https://harimenon.com/tags/web-apps/"/>
     
-      <category term="drawing" scheme="https://harimenon.com/tags/drawing/"/>
+    <category term="drawing" scheme="https://harimenon.com/tags/drawing/"/>
     
-      <category term="social distancing" scheme="https://harimenon.com/tags/social-distancing/"/>
+    <category term="social distancing" scheme="https://harimenon.com/tags/social-distancing/"/>
     
-      <category term="covid-19" scheme="https://harimenon.com/tags/covid-19/"/>
+    <category term="covid-19" scheme="https://harimenon.com/tags/covid-19/"/>
     
   </entry>
   
@@ -138,33 +132,31 @@
     <link href="https://harimenon.com/2019/04/27/diy-smart-garage-with-raspberry-pi/"/>
     <id>https://harimenon.com/2019/04/27/diy-smart-garage-with-raspberry-pi/</id>
     <published>2019-04-27T17:50:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      Converting a regular remote controlled garage door into a DIY, Alexa-controlled smart garage using a Raspberry Pi and a couple of open-source apps.
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <summary type="html">Converting a regular remote controlled garage door into a DIY, Alexa-controlled smart garage using a Raspberry Pi and a couple of open-source apps.</summary>
     
     
-      <category term="smart garage" scheme="https://harimenon.com/tags/smart-garage/"/>
     
-      <category term="raspberry pi" scheme="https://harimenon.com/tags/raspberry-pi/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
-      <category term="alexa" scheme="https://harimenon.com/tags/alexa/"/>
     
-      <category term="python" scheme="https://harimenon.com/tags/python/"/>
+    <category term="smart garage" scheme="https://harimenon.com/tags/smart-garage/"/>
     
-      <category term="javascript" scheme="https://harimenon.com/tags/javascript/"/>
+    <category term="raspberry pi" scheme="https://harimenon.com/tags/raspberry-pi/"/>
     
-      <category term="node.js" scheme="https://harimenon.com/tags/node-js/"/>
+    <category term="alexa" scheme="https://harimenon.com/tags/alexa/"/>
     
-      <category term="soldering" scheme="https://harimenon.com/tags/soldering/"/>
+    <category term="python" scheme="https://harimenon.com/tags/python/"/>
     
-      <category term="diy" scheme="https://harimenon.com/tags/diy/"/>
+    <category term="javascript" scheme="https://harimenon.com/tags/javascript/"/>
+    
+    <category term="node.js" scheme="https://harimenon.com/tags/node-js/"/>
+    
+    <category term="soldering" scheme="https://harimenon.com/tags/soldering/"/>
+    
+    <category term="diy" scheme="https://harimenon.com/tags/diy/"/>
     
   </entry>
   
@@ -173,28 +165,26 @@
     <link href="https://harimenon.com/2019/04/06/random-sketch/"/>
     <id>https://harimenon.com/2019/04/06/random-sketch/</id>
     <published>2019-04-06T21:11:12.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Discovered &lt;a href=&quot;https://www.youidraw.com/apps/painter/&quot;&gt;this cool app&lt;/a&gt; the other day, when trying to sketch something quick for my
+    <summary type="html">&lt;p&gt;Discovered &lt;a href=&quot;https://www.youidraw.com/apps/painter/&quot;&gt;this cool app&lt;/a&gt; the other day, when trying to sketch something quick for my</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="art" scheme="https://harimenon.com/tags/art/"/>
+    <category term="art" scheme="https://harimenon.com/tags/art/"/>
     
-      <category term="random sketch" scheme="https://harimenon.com/tags/random-sketch/"/>
+    <category term="random sketch" scheme="https://harimenon.com/tags/random-sketch/"/>
     
-      <category term="web apps" scheme="https://harimenon.com/tags/web-apps/"/>
+    <category term="web apps" scheme="https://harimenon.com/tags/web-apps/"/>
     
   </entry>
   
@@ -203,30 +193,28 @@
     <link href="https://harimenon.com/2017/04/02/spring/"/>
     <id>https://harimenon.com/2017/04/02/spring/</id>
     <published>2017-04-02T04:00:23.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Spring is here!&lt;br&gt;The flowers are blooming&lt;br&gt;The grasses are glowing&lt;br&gt;The birds are singing&lt;br&gt;The bees are buzzing&lt;br&gt;The butterflie
+    <summary type="html">&lt;p&gt;Spring is here!&lt;br&gt;The flowers are blooming&lt;br&gt;The grasses are glowing&lt;br&gt;The birds are singing&lt;br&gt;The bees are buzzing&lt;br&gt;The butterflie</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="poem" scheme="https://harimenon.com/tags/poem/"/>
+    <category term="poem" scheme="https://harimenon.com/tags/poem/"/>
     
-      <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
+    <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
     
-      <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
+    <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
     
   </entry>
   
@@ -235,27 +223,25 @@
     <link href="https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/"/>
     <id>https://harimenon.com/2017/03/04/ennum-eppozhum-dhithiki-dhithiki-meaning/</id>
     <published>2017-03-05T01:30:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;ധിത്തികി-ധിത്തികി-എന്നും-എപ്പോഴും-2015&quot;&gt;&lt;a href=&quot;#ധിത്തികി-ധിത്തികി-എന്നും-എപ്പോഴും-2015&quot; class=&quot;headerlink&quot; title=&quot;ധിത്തികി ധിത്തികി - എന്നും എപ്പോഴും (2015)&quot;&gt;&lt;/a&gt;ധിത്തികി ധിത്തികി - &lt;small&gt;എന്നും എപ്പോഴും (2015)&lt;/small&gt;&lt;/h3&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/-6k7k5jaARY&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <summary type="html">&lt;h3 id=&quot;ധിത്തികി-ധിത്തികി-എന്നും-എപ്പോഴും-2015&quot;&gt;&lt;a href=&quot;#ധിത്തികി-ധിത്തികി-എന്നും-എപ്പോഴും-2015&quot; class=&quot;headerlink&quot; title=&quot;ധിത്തികി ധിത്തികി - എന്നും എപ്പോഴും (2015)&quot;&gt;&lt;/a&gt;ധിത്തികി ധിത്തികി - &lt;small&gt;എന്നും എപ്പോഴും (2015)&lt;/small&gt;&lt;/h3&gt;&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/-6k7k5jaARY&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</summary>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
-      <category term="video" scheme="https://harimenon.com/tags/video/"/>
     
-      <category term="Malayalam Blog" scheme="https://harimenon.com/tags/malayalam-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="malayalam song meaning" scheme="https://harimenon.com/tags/malayalam-song-meaning/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    
+    <category term="video" scheme="https://harimenon.com/tags/video/"/>
+    
+    <category term="Malayalam Blog" scheme="https://harimenon.com/tags/malayalam-blog/"/>
+    
+    <category term="malayalam song meaning" scheme="https://harimenon.com/tags/malayalam-song-meaning/"/>
     
   </entry>
   
@@ -264,28 +250,26 @@
     <link href="https://harimenon.com/2017/01/02/happy-new-year/"/>
     <id>https://harimenon.com/2017/01/02/happy-new-year/</id>
     <published>2017-01-03T00:16:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;Welcome, 2017!&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Welcome, 2017!&lt;/p&gt;
 &lt;p&gt;2016 fled past without too many blogs being added. Wistfully hoping there’d be a change in thi year.&lt;/p&gt;
-&lt;p&gt;Happy n
+&lt;p&gt;Happy n</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="happy new year" scheme="https://harimenon.com/tags/happy-new-year/"/>
+    <category term="happy new year" scheme="https://harimenon.com/tags/happy-new-year/"/>
     
   </entry>
   
@@ -294,31 +278,29 @@
     <link href="https://harimenon.com/2016/11/06/the-desert/"/>
     <id>https://harimenon.com/2016/11/06/the-desert/</id>
     <published>2016-11-06T13:41:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;The sun is blazing&lt;br&gt;There’s no water&lt;br&gt;There’s almost no food&lt;br&gt;There’s only animals&lt;/p&gt;
-&lt;p&gt;I love the desert&lt;br&gt;Be careful&lt;br&gt;Becaus
+    <summary type="html">&lt;p&gt;The sun is blazing&lt;br&gt;There’s no water&lt;br&gt;There’s almost no food&lt;br&gt;There’s only animals&lt;/p&gt;
+&lt;p&gt;I love the desert&lt;br&gt;Be careful&lt;br&gt;Becaus</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="poem" scheme="https://harimenon.com/tags/poem/"/>
+    <category term="poem" scheme="https://harimenon.com/tags/poem/"/>
     
-      <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
+    <category term="maya" scheme="https://harimenon.com/tags/maya/"/>
     
-      <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
+    <category term="malutty" scheme="https://harimenon.com/tags/malutty/"/>
     
   </entry>
   
@@ -327,29 +309,27 @@
     <link href="https://harimenon.com/2016/01/07/welcome-2016/"/>
     <id>https://harimenon.com/2016/01/07/welcome-2016/</id>
     <published>2016-01-08T01:18:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;I realized only now that the previous entry on my blog was posted almost an year ago! &lt;/p&gt;
-&lt;p&gt;Looking back, a lot of good things did happ
+    <summary type="html">&lt;p&gt;I realized only now that the previous entry on my blog was posted almost an year ago! &lt;/p&gt;
+&lt;p&gt;Looking back, a lot of good things did happ</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="cyber AWOL" scheme="https://harimenon.com/tags/cyber-awol/"/>
+    <category term="cyber AWOL" scheme="https://harimenon.com/tags/cyber-awol/"/>
     
-      <category term="hiatus" scheme="https://harimenon.com/tags/hiatus/"/>
+    <category term="hiatus" scheme="https://harimenon.com/tags/hiatus/"/>
     
   </entry>
   
@@ -358,33 +338,31 @@
     <link href="https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2015/01/25/ios-app-for-malayalam-bhagavad-gita/</id>
     <published>2015-01-25T21:12:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;blockquote&gt;
+    <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;iOS app as a Malayalam eBook on Srimad Bhagavad Gita&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Published an open source iOS app last week that is
+&lt;p&gt;Published an open source iOS app last week that is</summary>
       
     
-    </summary>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
     
-      <category term="malayalam" scheme="https://harimenon.com/tags/malayalam/"/>
+    <category term="malayalam" scheme="https://harimenon.com/tags/malayalam/"/>
     
-      <category term="iOS" scheme="https://harimenon.com/tags/ios/"/>
+    <category term="iOS" scheme="https://harimenon.com/tags/ios/"/>
     
-      <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
+    <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
     
-      <category term="gita" scheme="https://harimenon.com/tags/gita/"/>
+    <category term="gita" scheme="https://harimenon.com/tags/gita/"/>
     
-      <category term="bhagavad gita" scheme="https://harimenon.com/tags/bhagavad-gita/"/>
+    <category term="bhagavad gita" scheme="https://harimenon.com/tags/bhagavad-gita/"/>
     
   </entry>
   
@@ -393,14 +371,13 @@
     <link href="https://harimenon.com/2014/12/30/resume/"/>
     <id>https://harimenon.com/2014/12/30/resume/</id>
     <published>2014-12-31T03:26:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;#Haridas Pachuveetil&lt;/p&gt;
+    <summary type="html">&lt;p&gt;#Haridas Pachuveetil&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Fairfax, VA, United States&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;mailto:&amp;#104;&amp;#x61;&amp;#114;&amp;#105;&amp;#100;&amp;#97;&amp;#x73;&amp;#46;&amp;#112;&amp;#97;&amp;#x63;&amp;#x68;&amp;#x75;&amp;#x76;&amp;#101;&amp;#x65;&amp;#116;&amp;#x69;&amp;#x6c;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&quot;&gt;&amp;#104;&amp;#x61;&amp;#114;&amp;#105;&amp;#100;&amp;#97;&amp;#x73;&amp;#46;&amp;#112;&amp;#97;&amp;#x63;&amp;#x68;&amp;#x75;&amp;#x76;&amp;#101;&amp;#x65;&amp;#116;&amp;#x69;&amp;#x6c;&amp;#x40;&amp;#103;&amp;#x6d;&amp;#97;&amp;#105;&amp;#x6c;&amp;#46;&amp;#99;&amp;#x6f;&amp;#x6d;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;mailto:&amp;#104;&amp;#x61;&amp;#x72;&amp;#105;&amp;#100;&amp;#97;&amp;#115;&amp;#46;&amp;#112;&amp;#x61;&amp;#99;&amp;#x68;&amp;#x75;&amp;#x76;&amp;#x65;&amp;#x65;&amp;#x74;&amp;#105;&amp;#108;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#x6d;&quot;&gt;&amp;#104;&amp;#x61;&amp;#x72;&amp;#105;&amp;#100;&amp;#97;&amp;#115;&amp;#46;&amp;#112;&amp;#x61;&amp;#99;&amp;#x68;&amp;#x75;&amp;#x76;&amp;#x65;&amp;#x65;&amp;#x74;&amp;#105;&amp;#108;&amp;#64;&amp;#x67;&amp;#109;&amp;#97;&amp;#x69;&amp;#x6c;&amp;#x2e;&amp;#x63;&amp;#111;&amp;#x6d;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://harimenon.com/&quot;&gt;https://harimenon.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I love Stack Overflow, probably because I am passionate about technology.  Photography, music, spirituality are my other passions and all of these together makes me feel I am alive. &lt;/p&gt;
@@ -410,19 +387,18 @@
 &lt;hr&gt;
 &lt;p&gt;I am currently employed and not actively looking for a switch, but feel free to let me know if you have an offer that you think I cannot resist!&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&quot;Technical-Skills&quot;&gt;&lt;a href=&quot;#Technical-Skills&quot; class=&quot;headerlink&quot; title=&quot;Technical Skills&quot;&gt;&lt;/a&gt;Technical Skills&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Like:&lt;/strong&gt; git, web-development, javascript, jquery, ember.js, .net, c#, android, java, phonegap, tdd, open-source, linux, stack-overflow&lt;/p&gt;
-    
-    </summary>
+&lt;h2 id=&quot;Technical-Skills&quot;&gt;&lt;a href=&quot;#Technical-Skills&quot; class=&quot;headerlink&quot; title=&quot;Technical Skills&quot;&gt;&lt;/a&gt;Technical Skills&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Like:&lt;/strong&gt; git, web-development, javascript, jquery, ember.js, .net, c#, android, java, phonegap, tdd, open-source, linux, stack-overflow&lt;/p&gt;</summary>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="resume" scheme="https://harimenon.com/tags/resume/"/>
+    <category term="resume" scheme="https://harimenon.com/tags/resume/"/>
     
-      <category term="imported from Stack Overflow Careers" scheme="https://harimenon.com/tags/imported-from-stack-overflow-careers/"/>
+    <category term="imported from Stack Overflow Careers" scheme="https://harimenon.com/tags/imported-from-stack-overflow-careers/"/>
     
   </entry>
   
@@ -431,33 +407,31 @@
     <link href="https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/09/10/android-app-for-malayalam-bhagavad-gita/</id>
     <published>2014-09-10T18:12:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;blockquote&gt;
+    <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;Android app as a Malayalam eBook on Srimad Bhagavad Gita&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Published a new, open source Android app last 
+&lt;p&gt;Published a new, open source Android app last </summary>
       
     
-    </summary>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
     
-      <category term="malayalam" scheme="https://harimenon.com/tags/malayalam/"/>
+    <category term="malayalam" scheme="https://harimenon.com/tags/malayalam/"/>
     
-      <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
+    <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
     
-      <category term="Android" scheme="https://harimenon.com/tags/android/"/>
+    <category term="Android" scheme="https://harimenon.com/tags/android/"/>
     
-      <category term="gita" scheme="https://harimenon.com/tags/gita/"/>
+    <category term="gita" scheme="https://harimenon.com/tags/gita/"/>
     
-      <category term="bhagavad gita" scheme="https://harimenon.com/tags/bhagavad-gita/"/>
+    <category term="bhagavad gita" scheme="https://harimenon.com/tags/bhagavad-gita/"/>
     
   </entry>
   
@@ -466,28 +440,26 @@
     <link href="https://harimenon.com/2014/04/15/a-full-blossom/"/>
     <id>https://harimenon.com/2014/04/15/a-full-blossom/</id>
     <published>2014-04-15T04:05:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;h4 id=&quot;National-Cherry-Blossom-Festival-Spring-2014-Washington-DC&quot;&gt;&lt;a href=&quot;#National-Cherry-Blossom-Festival-Spring-2014-Washington-DC&quot; cl
+    <summary type="html">&lt;h4 id=&quot;National-Cherry-Blossom-Festival-Spring-2014-Washington-DC&quot;&gt;&lt;a href=&quot;#National-Cherry-Blossom-Festival-Spring-2014-Washington-DC&quot; cl</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="photography" scheme="https://harimenon.com/tags/photography/"/>
+    <category term="photography" scheme="https://harimenon.com/tags/photography/"/>
     
-      <category term="Cherry Blossom" scheme="https://harimenon.com/tags/cherry-blossom/"/>
+    <category term="Cherry Blossom" scheme="https://harimenon.com/tags/cherry-blossom/"/>
     
-      <category term="Washington DC" scheme="https://harimenon.com/tags/washington-dc/"/>
+    <category term="Washington DC" scheme="https://harimenon.com/tags/washington-dc/"/>
     
   </entry>
   
@@ -496,11 +468,10 @@
     <link href="https://harimenon.com/2014/02/20/srimad-bhagavad-gita/"/>
     <id>https://harimenon.com/2014/02/20/srimad-bhagavad-gita/</id>
     <published>2014-02-20T20:50:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;അര്‍ഥസഹിതം&quot;&gt;&lt;a href=&quot;#അര്‍ഥസഹിതം&quot; class=&quot;headerlink&quot; title=&quot;(അര്‍ഥസഹിതം)&quot;&gt;&lt;/a&gt;&lt;a name=&quot;contents&quot;&gt;&lt;/a&gt;(അര്‍ഥസഹിതം)&lt;/h3&gt;&lt;p&gt;Source: &lt;a href=&quot;http://hinduebooks.blogspot.com/&quot;&gt;http://hinduebooks.blogspot.com&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;h3 id=&quot;അര്‍ഥസഹിതം&quot;&gt;&lt;a href=&quot;#അര്‍ഥസഹിതം&quot; class=&quot;headerlink&quot; title=&quot;(അര്‍ഥസഹിതം)&quot;&gt;&lt;/a&gt;&lt;a name=&quot;contents&quot;&gt;&lt;/a&gt;(അര്‍ഥസഹിതം)&lt;/h3&gt;&lt;p&gt;Source: &lt;a href=&quot;http://hinduebooks.blogspot.com/&quot;&gt;http://hinduebooks.blogspot.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#dhyanam&quot;&gt;ഗീതാധ്യാനം&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#mahathmyam&quot;&gt;ഗീതാമാഹാത്മ്യം&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#one&quot;&gt;അര്‍ജുനവിഷാദയോഗഃ&lt;/a&gt;&lt;/p&gt;
@@ -520,23 +491,22 @@
 &lt;p&gt;&lt;a href=&quot;#fifteen&quot;&gt;പുരുഷോത്തമയോഗഃ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#sixteen&quot;&gt;ദൈവാസുരസമ്പദ്വിഭാഗയോഗഃ&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;#seventeen&quot;&gt;ശ്രദ്ധാത്രയവിഭാഗയോഗഃ&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;#eighteen&quot;&gt;മോക്ഷസംന്യാസയോഗഃ&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
+&lt;p&gt;&lt;a href=&quot;#eighteen&quot;&gt;മോക്ഷസംന്യാസയോഗഃ&lt;/a&gt;&lt;/p&gt;</summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="Malayalam Blog" scheme="https://harimenon.com/tags/malayalam-blog/"/>
+    <category term="Malayalam Blog" scheme="https://harimenon.com/tags/malayalam-blog/"/>
     
-      <category term="hinduism" scheme="https://harimenon.com/tags/hinduism/"/>
+    <category term="hinduism" scheme="https://harimenon.com/tags/hinduism/"/>
     
-      <category term="gita" scheme="https://harimenon.com/tags/gita/"/>
+    <category term="gita" scheme="https://harimenon.com/tags/gita/"/>
     
-      <category term="bhagavad gita" scheme="https://harimenon.com/tags/bhagavad-gita/"/>
+    <category term="bhagavad gita" scheme="https://harimenon.com/tags/bhagavad-gita/"/>
     
-      <category term="Srimad Bhagavad Gita" scheme="https://harimenon.com/tags/srimad-bhagavad-gita/"/>
+    <category term="Srimad Bhagavad Gita" scheme="https://harimenon.com/tags/srimad-bhagavad-gita/"/>
     
   </entry>
   
@@ -545,27 +515,25 @@
     <link href="https://harimenon.com/2014/02/16/my-gpg-public-key/"/>
     <id>https://harimenon.com/2014/02/16/my-gpg-public-key/</id>
     <published>2014-02-16T19:20:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;Here is my GnuPG / PGP public key:&lt;/p&gt;
+    <summary type="html">&lt;p&gt;Here is my GnuPG / PGP public key:&lt;/p&gt;
 &lt;p&gt;Key Fingerprint: &lt;code&gt;F79E FDED 6BAC 4B7D C436 A838 9B5A 929A C7A3 F555&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Either copy from below or download it from &lt;a href=&quot;/gpg/public-key.asc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
+&lt;p&gt;Either copy from below or download it from &lt;a href=&quot;/gpg/public-key.asc&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
     
-      <category term="gnupg key" scheme="https://harimenon.com/tags/gnupg-key/"/>
+    <category term="gnupg key" scheme="https://harimenon.com/tags/gnupg-key/"/>
     
-      <category term="security" scheme="https://harimenon.com/tags/security/"/>
+    <category term="security" scheme="https://harimenon.com/tags/security/"/>
     
-      <category term="encryption" scheme="https://harimenon.com/tags/encryption/"/>
+    <category term="encryption" scheme="https://harimenon.com/tags/encryption/"/>
     
-      <category term="pgp" scheme="https://harimenon.com/tags/pgp/"/>
+    <category term="pgp" scheme="https://harimenon.com/tags/pgp/"/>
     
   </entry>
   
@@ -574,11 +542,10 @@
     <link href="https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/"/>
     <id>https://harimenon.com/2013/09/09/the-story-behind-mantis-ci/</id>
     <published>2013-09-09T04:40:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
-      &lt;h3 id=&quot;Mantis-CI&quot;&gt;&lt;a href=&quot;#Mantis-CI&quot; class=&quot;headerlink&quot; title=&quot;Mantis CI&quot;&gt;&lt;/a&gt;Mantis CI&lt;/h3&gt;&lt;p&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;M&lt;/span&gt;obile &lt;span style=&quot;color: #ff0000;&quot;&gt;A&lt;/span&gt;pplicatio&lt;span style=&quot;color: #ff0000;&quot;&gt;n&lt;/span&gt; for &lt;span style=&quot;text-wrap: none;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;T&lt;/span&gt;rav&lt;span style=&quot;color: #ff0000;&quot;&gt;is CI&lt;/span&gt;™&lt;/span&gt;&lt;/p&gt;
+    <summary type="html">&lt;h3 id=&quot;Mantis-CI&quot;&gt;&lt;a href=&quot;#Mantis-CI&quot; class=&quot;headerlink&quot; title=&quot;Mantis CI&quot;&gt;&lt;/a&gt;Mantis CI&lt;/h3&gt;&lt;p&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;M&lt;/span&gt;obile &lt;span style=&quot;color: #ff0000;&quot;&gt;A&lt;/span&gt;pplicatio&lt;span style=&quot;color: #ff0000;&quot;&gt;n&lt;/span&gt; for &lt;span style=&quot;text-wrap: none;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;T&lt;/span&gt;rav&lt;span style=&quot;color: #ff0000;&quot;&gt;is CI&lt;/span&gt;™&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.floydpink.android.travisci&quot; target=&quot;_blank&quot; style=&quot;display:inline-block;overflow:hidden;background:url(https://developer.android.com/images/brand/en_generic_rgb_wo_45.png) no-repeat;width:135px;height:45px;background-position:center;&quot;&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/travis-ci-mobile/id665742482?mt=8&amp;amp;uo=4&quot; target=&quot;_blank&quot; style=&quot;display:inline-block;overflow:hidden;background:url(/images/app-store-badge.png) no-repeat;width:135px;height:45px;background-position:center;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;: &lt;a href=&quot;http://floydpink.github.io/Mantis-CI/&quot;&gt;Mantis CI&lt;/a&gt;, is a free app (available for both iOS/Android) that attempts to be a mobile-optimized client for Travis CI. Please install them and share your feedback.&lt;/em&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://floydpink.github.io/Mantis-CI/&quot;&gt;&lt;img alt=&quot;Mantis CI&quot; src=&quot;https://i.imgur.com/JYV2Nyz.png&quot; width=&quot;300&quot; height=&quot;300&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
@@ -587,27 +554,26 @@
 &lt;p&gt;Quite recently I managed to wrap the same HTML5 app into an iOS app as well, thanks to detailed guides at PhoneGap and a lot of good questions on StackOverflow.&lt;/p&gt;
 &lt;p&gt;It was a good experience in trying to the do similar things that worked on the Linux/Eclipse/Android on to the Mac/Xcode/iOS. &lt;/p&gt;
 &lt;p&gt;Click on the buttons above to download the app from one of the stores. Also you could find out more about the apps and get to the open source repositories etc. from &lt;a href=&quot;http://floydpink.github.io/Mantis-CI/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Below is a short (self-centric) story behind these apps. :-)&lt;/p&gt;
-    
-    </summary>
+&lt;p&gt;Below is a short (self-centric) story behind these apps. :-)&lt;/p&gt;</summary>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
     
-      <category term="iOS" scheme="https://harimenon.com/tags/ios/"/>
+    <category term="iOS" scheme="https://harimenon.com/tags/ios/"/>
     
-      <category term="PhoneGap" scheme="https://harimenon.com/tags/phonegap/"/>
+    <category term="PhoneGap" scheme="https://harimenon.com/tags/phonegap/"/>
     
-      <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
+    <category term="mobile app" scheme="https://harimenon.com/tags/mobile-app/"/>
     
-      <category term="Mantis CI" scheme="https://harimenon.com/tags/mantis-ci/"/>
+    <category term="Mantis CI" scheme="https://harimenon.com/tags/mantis-ci/"/>
     
-      <category term="Android" scheme="https://harimenon.com/tags/android/"/>
+    <category term="Android" scheme="https://harimenon.com/tags/android/"/>
     
-      <category term="Travis CI" scheme="https://harimenon.com/tags/travis-ci/"/>
+    <category term="Travis CI" scheme="https://harimenon.com/tags/travis-ci/"/>
     
-      <category term="story" scheme="https://harimenon.com/tags/story/"/>
+    <category term="story" scheme="https://harimenon.com/tags/story/"/>
     
   </entry>
   
@@ -616,35 +582,33 @@
     <link href="https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/"/>
     <id>https://harimenon.com/2013/08/02/oru-nalla-malayalam-kavitha/</id>
     <published>2013-08-03T00:14:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/YuyyArqlkXM&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <summary type="html">&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/YuyyArqlkXM&quot; frameborder=&quot;0&quot; loading=&quot;lazy&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</summary>
     
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="video" scheme="https://harimenon.com/tags/video/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
-      <category term="Malayalam Blog" scheme="https://harimenon.com/tags/malayalam-blog/"/>
     
-      <category term="asianet" scheme="https://harimenon.com/tags/asianet/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="കവിത" scheme="https://harimenon.com/tags/%E0%B4%95%E0%B4%B5%E0%B4%BF%E0%B4%A4/"/>
+    <category term="video" scheme="https://harimenon.com/tags/video/"/>
     
-      <category term="നാദിർഷാ" scheme="https://harimenon.com/tags/%E0%B4%A8%E0%B4%BE%E0%B4%A6%E0%B4%BF%E0%B5%BC%E0%B4%B7%E0%B4%BE/"/>
+    <category term="Malayalam Blog" scheme="https://harimenon.com/tags/malayalam-blog/"/>
     
-      <category term="ആസിഫ് അലി" scheme="https://harimenon.com/tags/%E0%B4%86%E0%B4%B8%E0%B4%BF%E0%B4%AB%E0%B5%8D-%E0%B4%85%E0%B4%B2%E0%B4%BF/"/>
+    <category term="asianet" scheme="https://harimenon.com/tags/asianet/"/>
     
-      <category term="സുരേഷ് ഗോപി" scheme="https://harimenon.com/tags/%E0%B4%B8%E0%B5%81%E0%B4%B0%E0%B5%87%E0%B4%B7%E0%B5%8D-%E0%B4%97%E0%B5%8B%E0%B4%AA%E0%B4%BF/"/>
+    <category term="കവിത" scheme="https://harimenon.com/tags/%E0%B4%95%E0%B4%B5%E0%B4%BF%E0%B4%A4/"/>
     
-      <category term="നിങ്ങൾക്കും ആകാം കോടീശ്വരൻ" scheme="https://harimenon.com/tags/%E0%B4%A8%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%82-%E0%B4%86%E0%B4%95%E0%B4%BE%E0%B4%82-%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%80%E0%B4%B6%E0%B5%8D%E0%B4%B5%E0%B4%B0%E0%B5%BB/"/>
+    <category term="നാദിർഷാ" scheme="https://harimenon.com/tags/%E0%B4%A8%E0%B4%BE%E0%B4%A6%E0%B4%BF%E0%B5%BC%E0%B4%B7%E0%B4%BE/"/>
+    
+    <category term="ആസിഫ് അലി" scheme="https://harimenon.com/tags/%E0%B4%86%E0%B4%B8%E0%B4%BF%E0%B4%AB%E0%B5%8D-%E0%B4%85%E0%B4%B2%E0%B4%BF/"/>
+    
+    <category term="സുരേഷ് ഗോപി" scheme="https://harimenon.com/tags/%E0%B4%B8%E0%B5%81%E0%B4%B0%E0%B5%87%E0%B4%B7%E0%B5%8D-%E0%B4%97%E0%B5%8B%E0%B4%AA%E0%B4%BF/"/>
+    
+    <category term="നിങ്ങൾക്കും ആകാം കോടീശ്വരൻ" scheme="https://harimenon.com/tags/%E0%B4%A8%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%81%E0%B4%82-%E0%B4%86%E0%B4%95%E0%B4%BE%E0%B4%82-%E0%B4%95%E0%B5%8B%E0%B4%9F%E0%B5%80%E0%B4%B6%E0%B5%8D%E0%B4%B5%E0%B4%B0%E0%B5%BB/"/>
     
   </entry>
   
@@ -653,26 +617,24 @@
     <link href="https://harimenon.com/2013/05/29/a-proud-owner/"/>
     <id>https://harimenon.com/2013/05/29/a-proud-owner/</id>
     <published>2013-05-29T04:00:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
       
       
-        &lt;p&gt;I am now a proud owner of a brand-spanking new &lt;a href=&quot;https://support.apple.com/kb/SP694?locale=en_US&quot;&gt;Macbook Pro&lt;/a&gt;, thanks to my de
+    <summary type="html">&lt;p&gt;I am now a proud owner of a brand-spanking new &lt;a href=&quot;https://support.apple.com/kb/SP694?locale=en_US&quot;&gt;Macbook Pro&lt;/a&gt;, thanks to my de</summary>
       
     
-    </summary>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
+    <category term="personal" scheme="https://harimenon.com/tags/personal/"/>
     
-      <category term="Macbook Pro" scheme="https://harimenon.com/tags/macbook-pro/"/>
+    <category term="Macbook Pro" scheme="https://harimenon.com/tags/macbook-pro/"/>
     
   </entry>
   
@@ -681,23 +643,21 @@
     <link href="https://harimenon.com/2013/04/26/trees-in-the-database/"/>
     <id>https://harimenon.com/2013/04/26/trees-in-the-database/</id>
     <published>2013-04-26T15:29:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      Storing tree structures in a bi-dimensional table has always been problematic. The simplest tree models are usually quite inefficient, while more complex ones aren&#39;t necessarily better. This talk briefly goes through the most used models (adjacency list, materialized path, nested sets) and introduce some more advanced ones belonging to the nested intervals family (Farey algorithm, Continued Fractions, and other encodings). The advantages and pitfalls of each model, some proprietary solutions (e.g. Oracle&#39;s CONNECT BY) and one of the SQL Standard&#39;s upcoming features, Common Table Expressions are described.
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <summary type="html">Storing tree structures in a bi-dimensional table has always been problematic. The simplest tree models are usually quite inefficient, while more complex ones aren&#39;t necessarily better. This talk briefly goes through the most used models (adjacency list, materialized path, nested sets) and introduce some more advanced ones belonging to the nested intervals family (Farey algorithm, Continued Fractions, and other encodings). The advantages and pitfalls of each model, some proprietary solutions (e.g. Oracle&#39;s CONNECT BY) and one of the SQL Standard&#39;s upcoming features, Common Table Expressions are described.</summary>
     
     
-      <category term="Data Modeling" scheme="https://harimenon.com/tags/data-modeling/"/>
     
-      <category term="tree" scheme="https://harimenon.com/tags/tree/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
-      <category term="slideshare" scheme="https://harimenon.com/tags/slideshare/"/>
+    
+    <category term="Data Modeling" scheme="https://harimenon.com/tags/data-modeling/"/>
+    
+    <category term="tree" scheme="https://harimenon.com/tags/tree/"/>
+    
+    <category term="slideshare" scheme="https://harimenon.com/tags/slideshare/"/>
     
   </entry>
   
@@ -706,35 +666,33 @@
     <link href="https://harimenon.com/2013/04/22/a-stroke-of-insight/"/>
     <id>https://harimenon.com/2013/04/22/a-stroke-of-insight/</id>
     <published>2013-04-22T23:15:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      An amazing video found on TED.
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
+    <summary type="html">An amazing video found on TED.</summary>
     
     
-      <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="video" scheme="https://harimenon.com/tags/video/"/>
+    <category term="non-tech" scheme="https://harimenon.com/categories/non-tech/"/>
     
-      <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
     
-      <category term="ted" scheme="https://harimenon.com/tags/ted/"/>
+    <category term="English Blog" scheme="https://harimenon.com/tags/english-blog/"/>
     
-      <category term="brain" scheme="https://harimenon.com/tags/brain/"/>
+    <category term="video" scheme="https://harimenon.com/tags/video/"/>
     
-      <category term="nirvana" scheme="https://harimenon.com/tags/nirvana/"/>
+    <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
     
-      <category term="stroke" scheme="https://harimenon.com/tags/stroke/"/>
+    <category term="ted" scheme="https://harimenon.com/tags/ted/"/>
     
-      <category term="hemorrhage" scheme="https://harimenon.com/tags/hemorrhage/"/>
+    <category term="brain" scheme="https://harimenon.com/tags/brain/"/>
     
-      <category term="spirituality" scheme="https://harimenon.com/tags/spirituality/"/>
+    <category term="nirvana" scheme="https://harimenon.com/tags/nirvana/"/>
+    
+    <category term="stroke" scheme="https://harimenon.com/tags/stroke/"/>
+    
+    <category term="hemorrhage" scheme="https://harimenon.com/tags/hemorrhage/"/>
+    
+    <category term="spirituality" scheme="https://harimenon.com/tags/spirituality/"/>
     
   </entry>
   
@@ -743,23 +701,21 @@
     <link href="https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/"/>
     <id>https://harimenon.com/2013/03/27/an-awesome-writeup-on-design/</id>
     <published>2013-03-27T15:28:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      Linklog of an Information Architects article found from twitter.
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <summary type="html">Linklog of an Information Architects article found from twitter.</summary>
     
     
-      <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
     
-      <category term="design" scheme="https://harimenon.com/tags/design/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
-      <category term="linklog" scheme="https://harimenon.com/tags/linklog/"/>
+    
+    <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
+    
+    <category term="design" scheme="https://harimenon.com/tags/design/"/>
+    
+    <category term="linklog" scheme="https://harimenon.com/tags/linklog/"/>
     
   </entry>
   
@@ -768,23 +724,21 @@
     <link href="https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/"/>
     <id>https://harimenon.com/2013/03/13/adding-splash-screen-to-an-ember-dot-js-app/</id>
     <published>2013-03-13T23:48:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      Add a custom splash screen for an Ember.js application, that could be especially usefult if it&#39;s deployed as mobile apps.
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <summary type="html">Add a custom splash screen for an Ember.js application, that could be especially usefult if it&#39;s deployed as mobile apps.</summary>
     
     
-      <category term="ember.js" scheme="https://harimenon.com/tags/ember-js/"/>
     
-      <category term="splash screen" scheme="https://harimenon.com/tags/splash-screen/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
-      <category term="mobile" scheme="https://harimenon.com/tags/mobile/"/>
+    
+    <category term="ember.js" scheme="https://harimenon.com/tags/ember-js/"/>
+    
+    <category term="splash screen" scheme="https://harimenon.com/tags/splash-screen/"/>
+    
+    <category term="mobile" scheme="https://harimenon.com/tags/mobile/"/>
     
   </entry>
   
@@ -793,26 +747,24 @@
     <link href="https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/"/>
     <id>https://harimenon.com/2013/02/23/twitter-cards-for-octopress-blogs/</id>
     <published>2013-02-24T00:21:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;The first time I heard about &lt;a href=&quot;https://dev.twitter.com/docs/cards&quot;&gt;Twitter Cards&lt;/a&gt; is from &lt;a href=&quot;https://github.com/blog/1388-github-now-supports-twitter-cards&quot;&gt;the GitHub blog entry&lt;/a&gt; announcing they have implemented it for all the GitHub respositories. And if you haven’t heard about them, go to either of those posts and you’d get a quick overview.&lt;/p&gt;
-&lt;p&gt;Anyways, since the time I read that blog, I have been thinking of trying to implement it here on this blog as well as on the other website I’ve been actively maintaining lately - &lt;a href=&quot;http://flickrdownloadr.com/&quot;&gt;flickrdownloadr.com&lt;/a&gt;. Finally got around to doing it yesterday on the static pages at flickrdownloadr site (even though I am still waiting for Twitter to approve my site).&lt;/p&gt;
-    
-    </summary>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    <summary type="html">&lt;p&gt;The first time I heard about &lt;a href=&quot;https://dev.twitter.com/docs/cards&quot;&gt;Twitter Cards&lt;/a&gt; is from &lt;a href=&quot;https://github.com/blog/1388-github-now-supports-twitter-cards&quot;&gt;the GitHub blog entry&lt;/a&gt; announcing they have implemented it for all the GitHub respositories. And if you haven’t heard about them, go to either of those posts and you’d get a quick overview.&lt;/p&gt;
+&lt;p&gt;Anyways, since the time I read that blog, I have been thinking of trying to implement it here on this blog as well as on the other website I’ve been actively maintaining lately - &lt;a href=&quot;http://flickrdownloadr.com/&quot;&gt;flickrdownloadr.com&lt;/a&gt;. Finally got around to doing it yesterday on the static pages at flickrdownloadr site (even though I am still waiting for Twitter to approve my site).&lt;/p&gt;</summary>
     
     
-      <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
     
-      <category term="octopress" scheme="https://harimenon.com/tags/octopress/"/>
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
-      <category term="twitter" scheme="https://harimenon.com/tags/twitter/"/>
     
-      <category term="Twitter Cards" scheme="https://harimenon.com/tags/twitter-cards/"/>
+    <category term="blog" scheme="https://harimenon.com/tags/blog/"/>
+    
+    <category term="octopress" scheme="https://harimenon.com/tags/octopress/"/>
+    
+    <category term="twitter" scheme="https://harimenon.com/tags/twitter/"/>
+    
+    <category term="Twitter Cards" scheme="https://harimenon.com/tags/twitter-cards/"/>
     
   </entry>
   
@@ -821,25 +773,23 @@
     <link href="https://harimenon.com/2013/02/14/start-webrick-here/"/>
     <id>https://harimenon.com/2013/02/14/start-webrick-here/</id>
     <published>2013-02-15T02:40:00.000Z</published>
-    <updated>2020-08-16T13:18:46.000Z</updated>
+    <updated>2020-08-16T13:59:24.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;I have started dabbling with &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; and it sure looks awesome!&lt;/p&gt;
+    <summary type="html">&lt;p&gt;I have started dabbling with &lt;a href=&quot;http://emberjs.com/&quot;&gt;Ember.js&lt;/a&gt; and it sure looks awesome!&lt;/p&gt;
 &lt;p&gt;This necessitated a quick and easy way to start serving the current directory through some webserver. And because of the recent adventures with Octopress, I happened to be aware of the presence of WEBrick as a nifty, light-weight server.&lt;/p&gt;
-&lt;p&gt;This led me to google &lt;code&gt;&amp;quot;start a webrick server at current directory windows&amp;quot;&lt;/code&gt; and the first link was to &lt;a href=&quot;http://stackoverflow.com/questions/3108395/serve-current-directory-from-command-line&quot;&gt;this question&lt;/a&gt; on Stack Overflow.&lt;/p&gt;
-    
-    </summary>
+&lt;p&gt;This led me to google &lt;code&gt;&amp;quot;start a webrick server at current directory windows&amp;quot;&lt;/code&gt; and the first link was to &lt;a href=&quot;http://stackoverflow.com/questions/3108395/serve-current-directory-from-command-line&quot;&gt;this question&lt;/a&gt; on Stack Overflow.&lt;/p&gt;</summary>
     
     
-      <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
+    
+    <category term="technical" scheme="https://harimenon.com/categories/technical/"/>
     
     
-      <category term="bash" scheme="https://harimenon.com/tags/bash/"/>
+    <category term="bash" scheme="https://harimenon.com/tags/bash/"/>
     
-      <category term="webrick" scheme="https://harimenon.com/tags/webrick/"/>
+    <category term="webrick" scheme="https://harimenon.com/tags/webrick/"/>
     
-      <category term="webserver" scheme="https://harimenon.com/tags/webserver/"/>
+    <category term="webserver" scheme="https://harimenon.com/tags/webserver/"/>
     
   </entry>
   
