@@ -6,8 +6,8 @@
     "version": "4.2.1"
   },
   "dependencies": {
-    "hexo": "^5.1.1",
-    "hexo-all-minifier": "^0.5.3",
+    "hexo": "^5.2.0",
+    "hexo-all-minifier": "^0.5.5",
     "hexo-auto-canonical": "^0.1.1",
     "hexo-autoprefixer": "^2.0.0",
     "hexo-deployer-git": "^2.1.0",
