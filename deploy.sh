@@ -24,4 +24,4 @@ if [ ! -d "./public" ]; then
 fi
 
 # Run deployment
-hexo deploy
+hexo deploy -m "Site updated at $(date +'%Y-%m-%d_%H-%M-%S') [ci skip]"
