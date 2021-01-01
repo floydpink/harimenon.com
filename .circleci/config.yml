@@ -3,6 +3,8 @@ jobs:
   build:
     docker:
       - image: circleci/node:14
+    environment:
+      TZ: "America/New_York"
     steps:
       - checkout
       - run:
@@ -11,8 +13,6 @@ jobs:
       - run:
           name: Install Hexo CLI
           command: |
-            export TZ=America/New_York
-            date
             sudo npm install hexo-cli -g
       - restore_cache:
           key: node-cache-{{ checksum "package-lock.json" }}
@@ -33,13 +33,13 @@ jobs:
   deploy:
     docker:
       - image: circleci/node:14
+    environment:
+      TZ: "America/New_York"
     steps:
       - checkout
       - run:
           name: Install Hexo CLI
           command: |
-            export TZ=America/New_York
-            date
             sudo npm install hexo-cli -g
       - restore_cache:
           key: node-cache-{{ checksum "package-lock.json" }}
@@ -47,7 +47,7 @@ jobs:
           at: public
       - add_ssh_keys:
           fingerprints:
-            - "48:88:68:cf:4d:77:33:21:c1:c3:27:67:cd:9a:8b:d8"
+            - "bd:48:b5:46:a1:62:80:08:48:96:c4:d0:28:f1:d0:a5"
       - deploy:
           name: Deploy website
           command: |
