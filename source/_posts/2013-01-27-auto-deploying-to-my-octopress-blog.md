@@ -16,7 +16,7 @@ For the uninitiated, Travis-CI is a really nice, open source, free and hosted co
 
 <!-- more -->
 
-His blog post really has everything that one would need to set-up Travis-CI for automating the deployment of their blog. This post here is trying to add a couple of tweaks that were done, when I [successfuly enabled](https://travis-ci.org/floydpink/harimenon.com) auto-deploy for [this blog](/blog) of mine, the source of which can be seen at [floydpink/harimenon.com](https://github.com/floydpink/harimenon.com). (Also, this very post, is in-fact composed on a browser, thanks to [prose.io](http://prose.io/#floydpink) service).
+His blog post really has everything that one would need to set-up Travis-CI for automating the deployment of their blog. This post here is trying to add a couple of tweaks that were done, when I [successfuly enabled](https://travis-ci.org/floydpink/harimenon.com) auto-deploy for [this blog](/) of mine, the source of which can be seen at [floydpink/harimenon.com](https://github.com/floydpink/harimenon.com). (Also, this very post, is in-fact composed on a browser, thanks to [prose.io](http://prose.io/#floydpink) service).
 
 #### 1. Revert _config.yml
 
