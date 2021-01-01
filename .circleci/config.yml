@@ -1,0 +1,85 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: circleci/node:14
+    steps:
+      - checkout
+      - run:
+          name: Update NPM
+          command: sudo npm install -g npm@latest
+      - run:
+          name: Install Hexo CLI
+          command: |
+            export TZ=America/New_York
+            date
+            sudo npm install hexo-cli -g
+      - restore_cache:
+          key: node-cache-{{ checksum "package-lock.json" }}
+      - run:
+          name: Install NPM packages
+          command: npm ci
+      - save_cache:
+          key: node-cache-{{ checksum "package-lock.json" }}
+          paths:
+            - ./node_modules
+      - run:
+          name: Generate blog
+          command: hexo generate -b
+      - persist_to_workspace:
+          root: public
+          paths:
+            - "*"
+  deploy:
+    docker:
+      - image: circleci/node:14
+    steps:
+      - checkout
+      - run:
+          name: Install Hexo CLI
+          command: |
+            export TZ=America/New_York
+            date
+            sudo npm install hexo-cli -g
+      - restore_cache:
+          key: node-cache-{{ checksum "package-lock.json" }}
+      - attach_workspace:
+          at: public
+      - add_ssh_keys:
+          fingerprints:
+            - "48:88:68:cf:4d:77:33:21:c1:c3:27:67:cd:9a:8b:d8"
+      - deploy:
+          name: Deploy website
+          command: |
+            git config --global user.name "Floyd Pink (via Circle CI)"
+            git config --global user.email "imbleedingme@googlemail.com"
+            sh deploy.sh
+  verify:
+    docker:
+      - image: circleci/node:14
+    steps:
+      - run:
+          name: Install BLC
+          command: sudo npm install -g broken-link-checker
+      - run:
+          name: Check broken internal links
+          command: blc https://harimenon.com -roe
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build:
+          filters:
+            branches:
+              ignore:
+                - gh-pages
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: main
+      - verify:
+          requires:
+            - deploy
