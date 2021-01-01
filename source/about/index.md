@@ -37,9 +37,9 @@ Check out my GitHub profile for all the bits I contribute to.
 
 Quite a while ago, I moved this blog from [Octopress](http://octopress.org/) into [Hexo](http://hexo.io/) and have been loving it.
 
-I was actively using Octopress for quite a while and this blog was [being built dynamically](https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/) every time [the source repository](https://github.com/floydpink/harimenon.com) is modified and pushed to. ~~I'd soon hope to get the same done with Hexo.~~ The Hexo version is also [now being built](https://github.com/floydpink/harimenon.com/blob/master/.travis.yml) dynamically on every push to GitHub.
+I was actively using Octopress for quite a while and this blog was [being built dynamically](https://harimenon.com/2013/01/27/auto-deploying-to-my-octopress-blog/) every time [the source repository](https://github.com/floydpink/harimenon.com) is modified and pushed to. ~~I'd soon hope to get the same done with Hexo.~~ The Hexo version is also [now being built](https://github.com/floydpink/harimenon.com/blob/main/.travis.yml) dynamically on every push to GitHub.
 
-The content of the old home page has been archived [here](/bloggerhome), and it's preserved in its exact form [at blogger](http://harimenonhome.blogspot.com)! You could also see the history of this page [on GitHub](https://github.com/floydpink/harimenon.com/commits/master/source/index.markdown)
+The content of the old home page has been archived [here](/bloggerhome), and it's preserved in its exact form [at blogger](http://harimenonhome.blogspot.com)! You could also see the history of this page [on GitHub](https://github.com/floydpink/harimenon.com/commits/main/source/index.markdown)
 
 Have a wonderful day!
 

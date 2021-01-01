@@ -9,7 +9,7 @@ os:
 - osx
 branches:
   only:
-  - master
+  - main
 before_install:
 - export TZ=America/New_York
 - date
