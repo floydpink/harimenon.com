@@ -4,7 +4,7 @@ layout: "about"
 
 ### Welcome and [Namaste](http://en.wikipedia.org/wiki/Namaste)!
 
-I am a polyglot developer and have been hacking on software for over nineteen years now at the <a href="#" title="2020-08-16 09:29" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
+I am a polyglot developer and have been hacking on software for over twenty one years now at the <a href="#" title="2022-01-24 08:07" onclick="return false;">time</a> of updating this page. I love building things with technology, especially architecting scalable, highly performant, multi-tier solutions and I strive for rich user experiences in all of the applications I build.
 
 #### Contact Me
 
@@ -43,4 +43,4 @@ The content of the old home page has been archived [here](/bloggerhome), and it'
 
 Have a wonderful day!
 
-<small>Last Updated: 08/16/2020-09:31 EST</small>
+<small>Last Updated: 01/24/2022-08:07 EST</small>
