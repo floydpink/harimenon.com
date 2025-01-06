@@ -22,6 +22,7 @@
     "hexo-renderer-marked": "hexojs/hexo-renderer-marked",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
+    "hexo-tag-embed": "^1.0.0",
     "hexo-tag-fontawesome": "^1.1.0"
   },
   "browserslist": [
